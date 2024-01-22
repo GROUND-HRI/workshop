@@ -59,7 +59,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/at.png" alt="Ana Tanevska" />
+                <img class="postcard__img" src="assets/img/ll.png" alt="Linda Lastrico" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Linda Lastrico</h1>
@@ -71,7 +71,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/ll.png" alt="Linda Lastrico" />
+                <img class="postcard__img" src="assets/img/at.png" alt="Ana" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Ana Tanevska</h1>
