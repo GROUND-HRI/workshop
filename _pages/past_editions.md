@@ -1,7 +1,7 @@
 ---
 layout: indexcategory
 title: "Past Editions"
-include_collection: pasteditions
+include_collection: accepted2023
 permalink: /past-editions
 header_type: hero
 header_img: /assets/img/dancing_banner_3.gif
