@@ -62,10 +62,11 @@ og_image: assets/img/robots_fix.png
                 <img class="postcard__img" src="assets/img/at.png" alt="Ana Tanevska" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Ana Tanevska</h1>
-                <div class="postcard__subtitle small">postdoctoral researcher @ Social Robotics Lab - Uppsala University</div>
+                <h1 class="postcard__title blue">Linda Lastrico</h1>
+                <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Dr. Ana Tanevska (they/them) is a postdoctoral researcher at the Social Robotics Lab in Uppsala University, within the Horizon Europe project SymAware. Their research is grounded in the topic of trustworthy human-robot interaction (HRI), with a particular focus on human-in-the-loop learning, and shared autonomy and agency in HRI. In addition to trustworthy HRI, Ana’s research interests include cognitive robotics (with a spotlight on the role of affect in cognition), and socially-assistive HRI.</div>
+                <div class="postcard__preview-txt">
+                Linda Lastrico (she/her) is a Ph.D. fellow at the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technology, Genoa, Italy. She’s about to defend her Ph.D. thesis in collaboration with the University of Genova, where she investigated implicit communication applied to object manipulation and its implication in human-robot interaction. She has also collaborated in studies on children-robot interaction both in lab settings and in the wild. She’s passionate about science communication and dissemination: she participated in many science outreach events, and she is a Young Ambassador for the Women&Tech association.</div>
             </div>
         </article>
         <article class="postcard light blue">
@@ -73,10 +74,11 @@ og_image: assets/img/robots_fix.png
                 <img class="postcard__img" src="assets/img/ll.png" alt="Linda Lastrico" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Linda Lastrico</h1>
-                <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
+                <h1 class="postcard__title blue">Ana Tanevska</h1>
+                <div class="postcard__subtitle small">Postdoctoral researcher @ Social Robotics Lab - Uppsala University
+                </div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Linda Lastrico (she/her) is a Ph.D. fellow at the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technology, Genoa, Italy. She’s about to defend her Ph.D. thesis in collaboration with the University of Genova, where she investigated implicit communication applied to object manipulation and its implication in human-robot interaction. She has also collaborated in studies on children-robot interaction both in lab settings and in the wild. She’s passionate about science communication and dissemination: she participated in many science outreach events, and she is a Young Ambassador for the Women&Tech association.</div>
+                <div class="postcard__preview-txt">Dr. Ana Tanevska (they/them) is a postdoctoral researcher at the Social Robotics Lab in Uppsala University, within the Horizon Europe project SymAware. Their research is grounded in the topic of trustworthy human-robot interaction (HRI), with a particular focus on human-in-the-loop learning, and shared autonomy and agency in HRI. In addition to trustworthy HRI, Ana’s research interests include cognitive robotics (with a spotlight on the role of affect in cognition), and socially-assistive HRI.</div>
             </div>
         </article>
     </div>
