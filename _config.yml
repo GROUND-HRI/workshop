@@ -108,8 +108,8 @@ navbar:
     title   :  # Title in navbar
     img     :  assets/img/Ground.png
   nav:
-  #- title : Call for Papers
-  #  url   : /call
+  - title : Call for Papers
+    url   : /call
   - title : Let's Stay in Touch!
     url   : /attendance
   - title : Workshop Program
@@ -118,8 +118,8 @@ navbar:
     url   : /organizers
   - title : Accepted Papers
     url   : /accepted-papers
-  #- title : Current skin
-  #  url   : /current-skin
+  - title : Past Editions
+    url   : /past-editions
   #- title   : Extras
   #  child   :
   #    - title : Tags
