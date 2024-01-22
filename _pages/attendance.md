@@ -1,5 +1,5 @@
 ---
-title: Let's Stay in Touch!
+title: Expression of Interest
 subtitle: ""
 header_type: hero
 header_img: /assets/img/banner_sketch.png
@@ -11,15 +11,10 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
-### Let's stay in touch!
+### Expression of Interest
 
 <p style="text-align: justify;">
-The First edition of the GROUND workshop was great, so we plan to continue the discussion in future editions!
-
-This form is to gather researchers interested in the topic so that we can advance all together toward more natural and ergonomic group-robot interactions.
-
-Just leave your email here if you want to stay in touch.
-Thank you again for participating in the GROUND workshop!
+If you plan to attend the GROUND 2023, please fill in this form, as this will help us estimate the in-person numbers, as well as share follow-up details about the workshop with all attendees.
 </p>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchdWEchOvA8UtSdgRaliJTbSGKo325fmKmEhpqyPJUOGKsyA/viewform?embedded=true" height="1089" frameborder="0" marginheight="0" marginwidth="0" style="width:100%;">Loading…</iframe>
