@@ -92,7 +92,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
         </article>
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/placeholders/15.jpg" alt="Image Title" />	
+				<img class="postcard__img" src="assets/placeholders/15.png" alt="Image Title" />	
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">TBD</h1>

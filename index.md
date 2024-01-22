@@ -7,7 +7,7 @@ subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>RSS
 project_links:
     - url: /attendance
       icon: fa-solid fa-people-group # fab fa-github fa-lg
-      label: Let's Stay in Touch!
+      label: Express your Interest!
 
 og_title: GROUND - Home
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior

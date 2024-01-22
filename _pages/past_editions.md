@@ -1,7 +1,7 @@
 ---
 layout: indexcategory
 title: "Past Editions"
-include_collection: past
+include_collection: pasteditions
 permalink: /past-editions
 header_type: hero
 header_img: /assets/img/dancing_banner_3.gif
