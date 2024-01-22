@@ -16,22 +16,6 @@ og_image: assets/img/robots_fix.png
 
 ---
 
-# Workshop Highlights
-
-
-The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b> Conference</a>, concluded with flying colors! We managed to gather more than 70 researchers - either in person and through Zoom - interested in group-robot interaction!
-
-Given the success of the workshop, we plan to organize future editions in other interantional conferences. If you want to be notified, please apply to the **[Let's Stay in Touch](/ground-workshop/attendance)**. We are also thinking about making a social network - aka. a GROUP - of researchers sharing the same interests.
-
-Here are some feedback about group-robot interaction from the interactive sessions.
-
-
-![Workshop Outcomes](assets/img/outcomes.png)
-
----
-
-![Feedback](assets/img/comments.png)
-
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
@@ -67,14 +51,14 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 <table>
   <tr>
-    <td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>
-    <td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>
-    <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
+    <!--<td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>-->
+    <!--<td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>-->
+    <!--<td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>-->
   </tr>
   <tr>
-    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
-    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
-    <td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>
+    <!--<td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>-->
+    <!--<td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>-->
+    <!--<td> <img src="assets/img/RAS.png" alt="IEEE RAS" width="300"/> </td>-->
   </tr>
 </table>
 
