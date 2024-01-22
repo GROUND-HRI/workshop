@@ -1,10 +1,8 @@
 ---
 title: GROUND @ RSS 2024 Delft
-layout: landingpage
 header_type: splash
 header_img: /assets/img/robots.gif
-subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b> <span>&#9888;</span>
- Website in Development <span>&#9888;</span>
+subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 </b>
 project_links:
     - url: /attendance
