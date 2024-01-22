@@ -1,8 +1,10 @@
 ---
-title: GROUND
+title: GROUND @ RSS 2024 Delft
 header_type: splash
-header_img: /assets/img/robots.gif
-subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b>28th August, Hybrid</b>
+header_img: /assets/img/wip.gif
+subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br> <b> <span>&#9888;</span>
+ Website in Development <span>&#9888;</span>
+</b>
 project_links:
     - url: /attendance
       icon: fa-solid fa-people-group # fab fa-github fa-lg
