@@ -11,13 +11,11 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
-**Date**: July the 15th or 19th (TBD)
+**Date**: TBD
 
-**Location**:  [Robotics Science and Systems 2024 (RSS 2024)](https://roboticsconference.org/) confererence, Jul 15 – Jul 19, 2024, Delft (Netherlands)
+**Location**:  TBD
 
 **Time**: TBD
-
-<!--**Attend Online**: [**Zoom link** (TDB)]()-->
 
 ## Program (Full Day)
 

@@ -2,7 +2,7 @@
 title: GROUND
 header_type: splash
 header_img: /assets/img/robots.gif
-subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>RSS 2024, Delft</b>
+subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
 
 project_links:
     - url: /attendance
