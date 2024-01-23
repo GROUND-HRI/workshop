@@ -1,5 +1,5 @@
 ---
-title: GROUND
+title: GROUND 2024
 header_type: splash
 header_img: /assets/img/robots.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior
