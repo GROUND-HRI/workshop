@@ -172,6 +172,9 @@ collections:
   accepted:
     output: true
     permalink: /accepted-papers/:name
+  pasteditions:
+    output: true
+    permaling: /past-editions/:name
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 

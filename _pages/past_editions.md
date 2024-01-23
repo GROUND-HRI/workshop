@@ -2,7 +2,7 @@
 layout: indexcategory
 title: "Past Editions"
 include_collection: pasteditions
-permalink: /past
+permalink: /paste-ditions
 header_type: hero
 header_img: /assets/img/dancing_banner_3.gif
 index_sort_asc: true
