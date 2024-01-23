@@ -118,8 +118,8 @@ navbar:
     url   : /organizers
   #- title : Accepted Papers
   #  url   : /accepted-papers
-  - title : Past Editions
-    url   : /past-editions
+  - title : RO-MAN 2023 - 1st Edition
+    url   : /roman2023
   #- title   : Extras
   #  child   :
   #    - title : Tags
