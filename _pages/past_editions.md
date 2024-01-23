@@ -1,9 +1,8 @@
 ---
 layout: indexcategory
-title: "Past Editions"
-include_collection: past-editions
-permalink: /past-editions
-header_type: hero
-header_img: /assets/img/dancing_banner_3.gif
-index_sort_asc: true
+title: "Demos"
+subtitle: All demos in one place
+permalink: /demo
+include_collection: demo
+og_image: /assets/img/site/banner-demos.png
 ---
