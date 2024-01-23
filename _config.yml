@@ -116,8 +116,6 @@ navbar:
   #  url   : /program
   - title : Organizers
     url   : /organizers
-  - title : OrganizersV2
-    url   : /organizersv2
   #- title : Accepted Papers
   #  url   : /accepted-papers
   - title : Past Editions
