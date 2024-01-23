@@ -120,8 +120,6 @@ navbar:
   #  url   : /accepted-papers
   - title : Past Editions
     url   : /past-editions
-  - title : Test
-    url   : /demo
   #- title   : Extras
   #  child   :
   #    - title : Tags
