@@ -4,7 +4,7 @@ title: "RO-MAN 2023 - 1st Edition"
 include_collection: _past-editions
 permalink: /roman2023
 header_type: hero
-header_img: /assets/img/dancing_banner_3.gif
+header_img: /assets/img/roman-banner.png
 #index_sort_asc: true
 ---
 
