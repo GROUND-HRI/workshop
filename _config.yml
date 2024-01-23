@@ -178,6 +178,8 @@ collections:
 collections_dir     : 
 permalink           : /:year:month:day_:title/
 
+gems:
+  - jekyll-redirect-from
 
 # Defaults https://jekyllrb.com/docs/configuration/front-matter-defaults/
 defaults:
