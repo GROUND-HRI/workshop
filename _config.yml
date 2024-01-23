@@ -119,7 +119,7 @@ navbar:
   #- title : Accepted Papers
   #  url   : /accepted-papers
   - title : Past Editions
-    url   : /past
+    url   : /past-editions
   #- title   : Extras
   #  child   :
   #    - title : Tags
