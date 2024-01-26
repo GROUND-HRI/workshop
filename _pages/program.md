@@ -23,29 +23,23 @@ We plan to organize a **Full Day** Workshop. Participants are invited to present
 
 | Activity                                  | Duration             |
 |:-----------------------------------------:|:--------------------:|
-|                          **MORNING**                            ||
+|<b>MORNING</b>|
+|----
 | Introdution                               | 15 min               |
 | Ice-breaking activity                     | 30 min               |
 | Keynote Talk 1                            | 30 min               |
 | Lightning Talk 1                          | 20 min               |
 | Carousel Poster Presentation              | max 2 min per poster |
 | Lunch + Poster Session                    |                      |
-|                          **MORNING**                            ||
+|----
+|<b>AFTERNOON</b>|
+|----
 | Team activity on ingroup/outgroup concept | 30 min               |
 | Keynote Talk 2                            | 30 min               |
 | Lightning Talk 2                          | 20 min               |
 | (G)round table debate                     | 40 min               |
 
 
-# saa
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-New section   |     More      |         Data |
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
