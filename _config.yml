@@ -112,8 +112,8 @@ navbar:
   #  url   : /call
   - title : Expression of Interest
     url   : /attendance
-  #- title : Workshop Program
-  #  url   : /program
+  - title : Workshop Program
+    url   : /program
   - title : Organizers
     url   : /organizers
   #- title : Accepted Papers

@@ -20,9 +20,14 @@ redirect_to: "https://ground-hri.github.io/workshop/"
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
-As social and cognitive robots become increasingly integrated into our daily lives and are introduced into multi-party contexts such as schools, care facilities, and workplaces, it is crucial to ensure that <b>their behavior considers the complex social dynamics</b> present in these scenarios. However, studying <b>group dynamics in HRI</b> entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents who dynamically influence each other). New challenges, therefore, await the HRI community, such as ensuring that social robots can adapt to the needs of <b>individual group members</b> while also considering <b>the group as a whole</b>, susceptible to subtle and hidden social norms and balances. Furthermore, it is crucial that robots do not exhibit biases or unethical behavior in these contexts, eventually leading to negative consequences such as social exclusion. One possible approach to overcome these challenges is through experimental designs based on <b>gamification</b>. This approach can favor an unbiased way of behaving in laboratory experiments, mitigating the Hawthorne effect (i.e., the variations in behavior due to the presence of an observer). 
+The proposed workshop aims to provide a <b>cutting-edge perspective on group interactions in the field of robotics and promote the development of adaptive robots' behavior in multiparty contexts</b>. In the words of John Donne <code>“No man is an island”</code> (1624): individuals are extremely influenced by others in their life (e.g., <i>Turner, 1994; Baumeister, 2011</i>).<br>
 
-Participants are invited to share <b>innovative strategies for exploring group-robot interactions</b>, with approaches focused on - but not limited to – gamification, providing a fresh and insightful viewpoint to (1) using social robots for understanding group dynamics; (2) designing social agents able to interact with groups. Additionally, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases toward group members. 
+As collaborative and assistive robots become more prevalent in our daily lives and are introduced into multi-party scenarios that require interaction with humans, such as workplaces, schools, and care facilities, it is crucial to ensure that <b>their behavior considers the complex dynamics of these contexts</b> (e.g., <i>Belpaeme et al., 2018; Schneiders et al., 2022; Sebo et al., 2020</i>).<br>
+
+Moreover, robots have been shown to be effective tools for studying social and physical interactions in groups, providing valuable insights into how human group dynamics can be modeled, enhanced, and ultimately predicted (e.g., <i>Leite et al., 2012; Alves-Oliveira et al., 2019; Strohkorb Sebo et al., 2018</i>). The study of group dynamics in HRI entails inherent challenges from both a technical (e.g., tracking multiple users simultaneously) and a theoretical point of view (e.g., modeling multiple agents whose behavior dynamically influences each other during decision making tasks).<br>
+
+Participants are invited to share innovative strategies for exploring group-robot interactions, providing a fresh and insightful viewpoint to: (1) <b>using social robots for understanding group dynamics</b>; (2) <b>designing robots able to interact with groups</b>. Also, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases towards group members.
+
 </p>
 
 Topics of interests include but are not limited to:
@@ -37,6 +42,8 @@ Topics of interests include but are not limited to:
 * Adaptation and personalization to groups.
 * Learning strategies for autonomous behaviors of robots in groups.
 * Modelling, understanding and predicting group behaviors.
+
+These topics are meant to be suggestive and not exhaustive, contributions to other relevant topics will also be taken into consideration, as long as they fit with the general theme of the workshop. 
 
 ---
 

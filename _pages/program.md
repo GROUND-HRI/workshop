@@ -19,20 +19,64 @@ og_image: assets/img/robots_fix.png
 
 ## Program (Full Day)
 
-TBD
+We plan to organize a Full Day Workshop. Participants are invited to present their contribution in the form of posters to facilitate open discussion in groups.
 
-<!--
-| **Activity**                             | **Starting Time CEST (GMT+2)** | **Starting Time KST (GMT+9)** |
-|------------------------------------------|--------------------------------|-------------------------------|
-| Opening session                          | 06:45 AM                       | 01:45 PM                      |
-| Keynote by **Giovanna Varni** + QA       | 07:00 AM                       | 02:00 PM                      |
-| Lightning talk by **Filipa Correia** +QA | 07:30 AM                       | 02:30 PM                      |
-| Paper presentation session               | 07:50 AM                       | 02:50 PM                      |
-| Coffee break                             | 08:30 AM                       | 03:30 PM                      |
-| Keynote by **Danilo Gallo** + QA         | 08:45 AM                       | 03:45 PM                      |
-| Lightning talk by **Pablo Barros** + QA  | 09:15 AM                       | 04:15 PM                      |
-| (G)Round Table + conclusion              | 09:35 AM                       | 04:35 PM                      |
--->
+<table>
+<thead>
+  <tr>
+    <th><b>Activity</b></th>
+    <th><b>Duration</b></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td colspan="2">MORNING</td>
+  </tr>
+  <tr>
+    <td>Introdution</td>
+    <td>15 min</td>
+  </tr>
+  <tr>
+    <td>Ice-breaking activity</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>Keynote Talk 1</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>Lightning Talk 1</td>
+    <td>20 min</td>
+  </tr>
+  <tr>
+    <td>Carousel Poster Presentation</td>
+    <td>max 2 min per poster</td>
+  </tr>
+  <tr>
+    <td colspan="2">Lunch + Poster presentations</td>
+  </tr>
+  <tr>
+    <td colspan="2">AFTERNOON</td>
+  </tr>
+  <tr>
+    <td>Team activity on ingroup/outgroup concept</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>Keynote Talk 2</td>
+    <td>30 min</td>
+  </tr>
+  <tr>
+    <td>Lightning Talk 2</td>
+    <td>20 min</td>
+  </tr>
+  <tr>
+    <td>(G)round table debate</td>
+    <td>40 min</td>
+  </tr>
+</tbody>
+</table>
+
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
  ---
