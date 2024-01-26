@@ -51,12 +51,12 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/placeholders/12.png" alt="Giovanna Varni" />
+                <img class="postcard__img" src="assets/placeholders/12.png" alt="" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- TBD</h1>
+                <h1 class="postcard__title blue">Keynote Speaker 1</h1>
                 <div class="postcard__subtitle small">
-				- TBD
+				TBD
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">TBD</div>
@@ -64,10 +64,10 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
         </article>
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/placeholders/13.png" alt="Danilo Gallo" />	
+				<img class="postcard__img" src="assets/placeholders/13.png" alt="" />	
 			</a>
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue">TBD</h1>
+				<h1 class="postcard__title blue">Keynote Speaker 2</h1>
 				<div class="postcard__subtitle small">
 					TBD
 				</div>
@@ -88,9 +88,9 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <img class="postcard__img" src="assets/placeholders/14.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">- TBD</h1>
+                <h1 class="postcard__title blue">Lightning Speaker 1</h1>
                 <div class="postcard__subtitle small">
-				- TBD
+				TBD
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">TBD</div>
@@ -101,7 +101,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				<img class="postcard__img" src="assets/placeholders/15.png" alt="Image Title" />	
 			</a>
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue">TBD</h1>
+				<h1 class="postcard__title blue">Lightning Speaker 2</h1>
 				<div class="postcard__subtitle small">
 					TBD
 				</div>
