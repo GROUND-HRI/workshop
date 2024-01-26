@@ -23,7 +23,7 @@ We plan to organize a **Full Day** Workshop. Participants are invited to present
 
 | Activity                                  | Duration             |
 |:-----------------------------------------:|:--------------------:|
-|<b>MORNING</b>|
+|<td colspan=2><b>MORNING</b>|
 |----
 | Introdution                               | 15 min               |
 | Ice-breaking activity                     | 30 min               |
@@ -32,7 +32,7 @@ We plan to organize a **Full Day** Workshop. Participants are invited to present
 | Carousel Poster Presentation              | max 2 min per poster |
 | Lunch + Poster Session                    |                      |
 |----
-|<b>AFTERNOON</b>|
+|<td colspan=2><b>AFTERNOON</b>|
 |----
 | Team activity on ingroup/outgroup concept | 30 min               |
 | Keynote Talk 2                            | 30 min               |
