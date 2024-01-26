@@ -17,65 +17,35 @@ og_image: assets/img/robots_fix.png
 
 **Time**: TBD
 
-## Program (Full Day)
+## Program
 
-We plan to organize a Full Day Workshop. Participants are invited to present their contribution in the form of posters to facilitate open discussion in groups.
+We plan to organize a **Full Day** Workshop. Participants are invited to present their contribution in the form of **posters** to facilitate open discussion in groups.
 
-<table>
-<thead>
-  <tr>
-    <th><b>Activity</b></th>
-    <th><b>Duration</b></th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td colspan="2">MORNING</td>
-  </tr>
-  <tr>
-    <td>Introdution</td>
-    <td>15 min</td>
-  </tr>
-  <tr>
-    <td>Ice-breaking activity</td>
-    <td>30 min</td>
-  </tr>
-  <tr>
-    <td>Keynote Talk 1</td>
-    <td>30 min</td>
-  </tr>
-  <tr>
-    <td>Lightning Talk 1</td>
-    <td>20 min</td>
-  </tr>
-  <tr>
-    <td>Carousel Poster Presentation</td>
-    <td>max 2 min per poster</td>
-  </tr>
-  <tr>
-    <td colspan="2">Lunch + Poster presentations</td>
-  </tr>
-  <tr>
-    <td colspan="2">AFTERNOON</td>
-  </tr>
-  <tr>
-    <td>Team activity on ingroup/outgroup concept</td>
-    <td>30 min</td>
-  </tr>
-  <tr>
-    <td>Keynote Talk 2</td>
-    <td>30 min</td>
-  </tr>
-  <tr>
-    <td>Lightning Talk 2</td>
-    <td>20 min</td>
-  </tr>
-  <tr>
-    <td>(G)round table debate</td>
-    <td>40 min</td>
-  </tr>
-</tbody>
-</table>
+| Activity                                  | Duration             |
+|:-----------------------------------------:|:--------------------:|
+|                          **MORNING**                            ||
+| Introdution                               | 15 min               |
+| Ice-breaking activity                     | 30 min               |
+| Keynote Talk 1                            | 30 min               |
+| Lightning Talk 1                          | 20 min               |
+| Carousel Poster Presentation              | max 2 min per poster |
+| Lunch + Poster Session                    |                      |
+|                          **MORNING**                            ||
+| Team activity on ingroup/outgroup concept | 30 min               |
+| Keynote Talk 2                            | 30 min               |
+| Lightning Talk 2                          | 20 min               |
+| (G)round table debate                     | 40 min               |
+
+
+# saa
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
