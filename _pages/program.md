@@ -25,7 +25,7 @@ We plan to organize a **Full Day** Workshop. Participants are invited to present
 |:-----------------------------------------:|:--------------------:|
 |<b>MORNING</b>||
 |----
-| Introdution                               | 15 min               |
+| Introduction                               | 15 min               |
 | Ice-breaking activity                     | 30 min               |
 | Keynote Talk 1                            | 30 min               |
 | Lightning Talk 1                          | 20 min               |
