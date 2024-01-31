@@ -2,7 +2,7 @@
 layout: indexcategory
 title: "RO-MAN 2023 - 1st Edition"
 include_collection: _past-editions
-permalink: /roman2023
+permalink: /roman2023TEST
 header_type: hero
 header_img: /assets/img/roman-banner.png
 #index_sort_asc: true
