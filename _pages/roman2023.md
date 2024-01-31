@@ -2,7 +2,7 @@
 layout: indexcategory
 title: "RO-MAN 2023 - 1st Edition"
 include_collection: _past-editions
-permalink: /roman2023TEST
+permalink: /roman2023
 header_type: hero
 header_img: /assets/img/roman-banner.png
 #index_sort_asc: true
@@ -12,6 +12,10 @@ header_img: /assets/img/roman-banner.png
 
 
 The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b> Conference</a>, concluded with flying colors! We managed to gather more than 70 researchers - in person and through Zoom - interested in group-robot interaction!
+
+## Gallery
+
+{% include_cached snippets/masonry.html internal="gallery" %}
 
 ---
 
