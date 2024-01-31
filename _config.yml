@@ -224,10 +224,10 @@ defaults:
           url: /cheatsheets
 
     -
-    scope:
-      path: "assets/img/gallery"
-    values:
-      image_col         : gallery
+      scope:
+        path: "assets/img/gallery"
+      values:
+        image_col         : gallery
 
 
 # XX. Other settings - no need to modify
