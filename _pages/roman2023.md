@@ -15,6 +15,8 @@ The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.o
 
 ## Gallery
 
+AAAAAAAAAAAAAAAAAAAAAAA
+
 {% include_cached snippets/masonry.html internal="gallery" %}
 
 {% assign externalgallery = "
