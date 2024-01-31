@@ -17,6 +17,17 @@ The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.o
 
 {% include_cached snippets/masonry.html internal="gallery" %}
 
+{% assign externalgallery = "
+https://picsum.photos/seed/10/600/1200,
+https://picsum.photos/seed/20/800/500,
+https://picsum.photos/seed/30/900/1200,
+https://picsum.photos/seed/40/900/1300,
+https://picsum.photos/seed/50/750/325,
+https://picsum.photos/seed/60/600,
+https://picsum.photos/seed/70/700/500" %}
+
+{% include_cached snippets/masonry.html external=externalgallery %}
+
 ---
 
 Here are some feedback about group-robot interaction from the interactive sessions.
