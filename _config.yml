@@ -119,7 +119,7 @@ navbar:
   #- title : Accepted Papers
   #  url   : /accepted-papers
   - title : RO-MAN 2023
-    url   : /roman2023
+    url   : /1stEditionROMAN2023
   #- title   : Extras
   #  child   :
   #    - title : Tags
