@@ -8,7 +8,7 @@ header_img: /assets/img/roman-banner.png
 #index_sort_asc: true
 ---
 
-## Workshop Highlights 1234-TEST
+## Workshop Highlights
 
 
 The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.org/main"><b>IEEE RO-MAN 2023</b> Conference</a>, concluded with flying colors! We managed to gather more than 70 researchers - in person and through Zoom - interested in group-robot interaction!
