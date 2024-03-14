@@ -19,7 +19,7 @@ redirect_to: "https://ground-hri.github.io/workshop/"
 
 ### GROUND 2024 Confirmed!!
 
-We are extremely happy to announce that the 2nd Edition of the GROUND workshop will take place in Delft on **July 19th afternoon**! Stay tuned for the Call for paper!
+We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in Delft on **July 19th afternoon**! Stay tuned for the [Call for paper](/call)!
 
 ### Workshop Theme & Topics of Interest
 
@@ -67,8 +67,8 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
     <!--<td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>-->
     <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
     <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
-  </tr>
-  <tr>
+  <!--</tr>
+  <tr>-->
     <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
     <td> <img src="assets/img/TC_HRI.png" alt="IEEE RAS" width="300"/> </td>
   </tr>

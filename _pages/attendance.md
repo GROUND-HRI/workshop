@@ -14,10 +14,10 @@ og_image: assets/img/robots_fix.png
 ### Expression of Interest
 
 <p style="text-align: justify;">
-We are working on the 2nd edition of the GROUND workshop! Please subscribe to the form below, if you want to be notified when the call is out!
+If you plan to attend the GROUND 2024, please fill in this form, as this will help us estimate the in-person numbers, as well as share follow-up details about the workshop with all attendees.
 </p>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSchdWEchOvA8UtSdgRaliJTbSGKo325fmKmEhpqyPJUOGKsyA/viewform?embedded=true" height="1089" frameborder="0" marginheight="0" marginwidth="0" style="width:100%;">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd2Tb9duTs2XXzCfHyqyfLTSa9FvTQl3kxss1sLi1QND9CXtA/viewform?embedded=true" height="1089" frameborder="0" marginheight="0" marginwidth="0" style="width:100%;">Loading…</iframe>
 
 ---
 
