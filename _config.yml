@@ -108,8 +108,8 @@ navbar:
     title   :  # Title in navbar
     img     :  assets/img/Ground.png
   nav:
-  #- title : Call for Papers
-  #  url   : /call
+  - title : Call for Papers
+    url   : /call
   - title : Expression of Interest
     url   : /attendance
   - title : Workshop Program
