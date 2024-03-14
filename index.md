@@ -6,7 +6,7 @@ subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>19t
 
 project_links:
     - url: /call
-      icon: fa-solid fa-people-group # fab fa-github fa-lg
+      icon: fa-solid fa-paper-plane # fab fa-github fa-lg
       label: Submit your Paper!
 
 og_title: GROUND - Home
@@ -19,7 +19,7 @@ redirect_to: "https://ground-hri.github.io/workshop/"
 
 ### GROUND 2024 Confirmed!!
 
-We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in Delft on **July 19th afternoon**! Stay tuned for the [Call for paper](/call)!
+We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in Delft on **July 19th afternoon**!
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
@@ -61,7 +61,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 ---
 
-#Supported By
+# Supported By
 
 <table>
   <tr>

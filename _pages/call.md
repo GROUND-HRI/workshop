@@ -40,14 +40,14 @@ These topics are meant to be suggestive and not exhaustive, contributions to oth
 
 **Submission format**: (2-4 pages + references)
 
-Please submit your contribution on **[EasyChair](https://easychair.org/my/conference?conf=ground24)**, using the predefined **[LateX](https://roboticsconference.org/docs/paper-template-latex.tar.gz) [Word](https://roboticsconference.org/docs/paper-template-word.zip) templates**.
+Please submit your contribution on **[EasyChair](https://easychair.org/my/conference?conf=ground24)**, using the predefined **[LateX](https://roboticsconference.org/docs/paper-template-latex.tar.gz)** or **[Word](https://roboticsconference.org/docs/paper-template-word.zip) templates**.
 
 <p style="text-align: justify;">
 The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program.<br>
 
 The contributions may include work in progress with preliminary results, technical reports, case studies, surveys, and state-of-the-art research.<br>
 
-Authors are invited to present their contribution in the form of **posters** after a short pitch to the audience, to facilitate open discussion in groups. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv).<br>
+Authors are invited to present their contribution in the form of <b>posters</b> after a short pitch to the audience, to facilitate open discussion in groups. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv).<br>
 
 The organizers are also working on a follow-up Special Issue in the Journal of Interaction Studies. Authors will be invited to submit an extended version of their contribution to reach the broad research community. More details will follow.
 </p>

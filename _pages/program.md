@@ -37,6 +37,28 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 
  ---
 
+## Lightning Speaker
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/img/sarahG.png" alt="Image Title" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Sarah Gillet</h1>
+                <div class="postcard__subtitle small">
+				KTH - Division of Robotics, Perception and Learning
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">TBD</div>
+            </div>
+        </article>
+    </div>
+</section>
+
+---
+
 ## Keynote Speakers
 
 <section class="light">
@@ -60,40 +82,6 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">Keynote Speaker 2</h1>
-				<div class="postcard__subtitle small">
-					TBD
-				</div>
-				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">TBD</div>
-			</div>
-		</article>
-    </div>
-</section>
-
-
-## Lightning Speakers
-
-<section class="light">
-    <div class="container py-2">
-        <article class="postcard light blue">
-            <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/placeholders/14.png" alt="Image Title" />
-            </a>
-            <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Lightning Speaker 1</h1>
-                <div class="postcard__subtitle small">
-				TBD
-				</div>
-                <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
-            </div>
-        </article>
-        <article class="postcard light blue">
-			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/placeholders/15.png" alt="Image Title" />	
-			</a>
-			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue">Lightning Speaker 2</h1>
 				<div class="postcard__subtitle small">
 					TBD
 				</div>
