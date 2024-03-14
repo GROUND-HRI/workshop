@@ -11,34 +11,26 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
-**Date**: TBD
+**Date**: 19th of July 2024
 
-**Location**:  TBD
+**Location**:  [Robotics Science and Systems 2024 (RSS 2024)](https://roboticsconference.org/) confererence, Delft (Netherlands)
 
-**Time**: TBD
+**Time (Tentative)**: 2PM - 6PM
 
 ## Program
 
-We plan to organize a **Full Day** Workshop. Participants are invited to present their contribution in the form of **posters** to facilitate open discussion in groups.
+GROUND 2024 will be a **Half Day** Workshop. Participants are invited to present their contribution in the form of **posters** to facilitate open discussion in groups.
 
 | Activity                                  | Duration             |
 |:-----------------------------------------:|:--------------------:|
-|<b>MORNING</b>||
-|----
-| Introduction                               | 15 min               |
+| Introduction                              | 10 min               |
 | Ice-breaking activity                     | 30 min               |
 | Keynote Talk 1                            | 30 min               |
-| Lightning Talk 1                          | 20 min               |
 | Carousel Poster Presentation              | max 2 min per poster |
-| Lunch + Poster Session                    |                      |
-|----
-|<b>AFTERNOON</b>||
-|----
-| Team activity on ingroup/outgroup concept | 30 min               |
-| Keynote Talk 2                            | 30 min               |
+| Coffee Break + Poster Session             | 40 min               |
 | Lightning Talk 2                          | 20 min               |
-| (G)round table debate                     | 40 min               |
-
+| Keynote Talk 2                            | 30 min               |
+| (G)Round Table: debate + activity         | 60 min               |
 
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).

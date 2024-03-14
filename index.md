@@ -21,6 +21,8 @@ redirect_to: "https://ground-hri.github.io/workshop/"
 
 We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in Delft on **July 19th afternoon**! Stay tuned for the [Call for paper](/call)!
 
+For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
+
 ### Workshop Theme & Topics of Interest
 
 <p style="text-align: justify;">
@@ -36,16 +38,16 @@ Participants are invited to share innovative strategies for exploring group-robo
 
 Topics of interests include but are not limited to:
 * Understanding group dynamics through the use of social robots.
-* Designing social robots able to interact with groups.
-* Gamification in multiparty human-robot interactions.
 * Promoting natural communication, mutual understanding and trust in human-robot mixed groups.
+* Adaptation and personalization to groups.
+* Learning strategies for autonomous behaviors of robots in groups.
+* Designing social robots able to interact with groups.
+* Modelling, understanding and predicting group behaviors.
 * Exploring different robot’s roles (e.g., peer, teacher, helper or friend) in group interactions.
+* Gamification in multiparty human-robot interactions.
 * Interdisciplinary collaborations between roboticists, game designers, psychologists, and sociologists.
 * Novel experimental designs for conducting group-robot interaction research.
 * Ethical considerations in researching group dynamics and potential biases or negative consequences.
-* Adaptation and personalization to groups.
-* Learning strategies for autonomous behaviors of robots in groups.
-* Modelling, understanding and predicting group behaviors.
 
 These topics are meant to be suggestive and not exhaustive, contributions to other relevant topics will also be taken into consideration, as long as they fit with the general theme of the workshop. 
 

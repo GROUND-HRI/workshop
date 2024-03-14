@@ -12,38 +12,45 @@ og_image: assets/img/robots_fix.png
 ---
 
 <p style="text-align: justify;">
-We encourage the submission of original contributions, presenting innovative strategies for exploring group-robot interactions, with approaches focused on - but not limited to – gamification; providing a fresh and insightful viewpoint on using social robots for understanding group dynamics, and designing social agents able to interact with groups. The contributions may include work in progress with preliminary results, technical reports, case studies, surveys and state-of-the-art research.
+Participants are invited to share innovative strategies for exploring group-robot interactions, providing a fresh and insightful viewpoint to: (1) <b>using social robots for understanding group dynamics</b>; (2) <b>designing robots able to interact with groups</b>. Also, the discussion will involve the ethical implications of researching group dynamics, including potential negative outcomes such as biases towards group members.
 </p>
 
 Topics of interests include but are not limited to:
 * Understanding group dynamics through the use of social robots.
-* Designing social robots able to interact with groups.
-* Gamification in multiparty human-robot interactions.
 * Promoting natural communication, mutual understanding and trust in human-robot mixed groups.
+* Adaptation and personalization to groups.
+* Learning strategies for autonomous behaviors of robots in groups.
+* Designing social robots able to interact with groups.
+* Modelling, understanding and predicting group behaviors.
 * Exploring different robot’s roles (e.g., peer, teacher, helper or friend) in group interactions.
+* Gamification in multiparty human-robot interactions.
 * Interdisciplinary collaborations between roboticists, game designers, psychologists, and sociologists.
 * Novel experimental designs for conducting group-robot interaction research.
 * Ethical considerations in researching group dynamics and potential biases or negative consequences.
-* Adaptation and personalization to groups.
-* Learning strategies for autonomous behaviors of robots in groups.
-* Modelling, understanding and predicting group behaviors.
+
+These topics are meant to be suggestive and not exhaustive, contributions to other relevant topics will also be taken into consideration, as long as they fit with the general theme of the workshop. 
 
 ## Important Dates
-* Submission Deadline: **TBD**
-* Notification of Acceptance: **TBD**
-* Camera Ready: **TBD**
+* Submission Deadline: **31st of May**
+* Notification of Acceptance: **10th of June**
+* Camera Ready: **1st of July**
 
 
 ## Submission Procedure
 
 **Submission format**: (2-4 pages + references)
 
-Please submit your contribution on **[EasyChair]()**, using the predefined **[LateX]() [Word]() templates**.
+Please submit your contribution on **[EasyChair](https://easychair.org/my/conference?conf=ground24)**, using the predefined **[LateX](https://roboticsconference.org/docs/paper-template-latex.tar.gz) [Word](https://roboticsconference.org/docs/paper-template-word.zip) templates**.
 
 <p style="text-align: justify;">
-The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program. Authors of accepted submissions will be invited to give an <b>oral presentation</b> of their work. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv). Depending on the workshop impact and participation, the organizers may also consider proposing a Special Issue to a Journal to collect broader follow-up papers.
-</p>
+The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program.<br>
 
+The contributions may include work in progress with preliminary results, technical reports, case studies, surveys, and state-of-the-art research.<br>
+
+Authors are invited to present their contribution in the form of **posters** after a short pitch to the audience, to facilitate open discussion in groups. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv).<br>
+
+The organizers are also working on a follow-up Special Issue in the Journal of Interaction Studies. Authors will be invited to submit an extended version of their contribution to reach the broad research community. More details will follow.
+</p>
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
 
