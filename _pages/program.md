@@ -51,7 +51,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				KTH - Division of Robotics, Perception and Learning
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt">Computational Approches To Interaction-Shaping Robotics</div>
             </div>
         </article>
     </div>
@@ -65,10 +65,10 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/placeholders/12.png" alt="" />
+                <img class="postcard__img" src="assets/img/sebo.jpeg" alt="" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Keynote Speaker 1</h1>
+                <h1 class="postcard__title blue">Sarah Sebo</h1>
                 <div class="postcard__subtitle small">
 				TBD
 				</div>
