@@ -51,7 +51,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				KTH - Division of Robotics, Perception and Learning
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Computational Approches To Interaction-Shaping Robotics</div>
+                <div class="postcard__preview-txt"><b>Computational Approches To Interaction-Shaping Robotics</b></div>
             </div>
         </article>
     </div>
@@ -70,7 +70,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Sarah Sebo</h1>
                 <div class="postcard__subtitle small">
-				TBD
+				University of Chicago - Human-Robot Interaction (HRI) Lab
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">TBD</div>
