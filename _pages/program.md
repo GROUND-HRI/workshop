@@ -73,7 +73,9 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				University of Chicago - Human-Robot Interaction (HRI) Lab
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt"><b>Designing Social Robots to Positively Shape Interactions with Groups of People</b><br>
+			With continued advances in computing, robots are becoming increasingly capable of performing physical tasks and engaging socially with people. As robots enter roles in food delivery, child tutoring, older adult assistance, and more, robots will engage both physically and socially with people, individually and in groups. This talk focuses on the potential ways that the social behavior of robots can both positively and negatively shape interactions between people within a group through human-robot interaction roles, supportive verbal statements, and ice-breaking questions. The implications of the work I will highlight the need for researchers and practitioners in HRI and robotics to consider deeply and to continue to research the potential impacts that a robot's behaviors have to shape important human-human interactions within a group. 
+		</div>
             </div>
         </article>
         <article class="postcard light blue">
