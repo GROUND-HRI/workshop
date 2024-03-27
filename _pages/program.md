@@ -94,7 +94,6 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 			</div>
 		</article>
     </div>
-
 </section>
 
 ---
