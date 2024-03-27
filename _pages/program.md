@@ -78,8 +78,6 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 		</div>
             </div>
         </article>
-    </div>
-    <div class="container py-2">
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
 				<img class="postcard__img" src="assets/placeholders/13.png" alt="" />	

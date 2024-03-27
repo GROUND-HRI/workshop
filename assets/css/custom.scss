@@ -199,7 +199,7 @@ a, a:hover {
       }
   
       &:nth-child(2n+1) {
-        flex-direction: row-reverse;
+        flex-direction: row;
       }
   
       &:nth-child(2n+0) {
@@ -208,12 +208,10 @@ a, a:hover {
   
       &:nth-child(2n+1) .postcard__text::before {
         left: -12px !important;
-        transform: rotate(4deg);
       }
   
       &:nth-child(2n+0) .postcard__text::before {
         right: -12px !important;
-        transform: rotate(-4deg);
       }
     }
   }
