@@ -63,10 +63,13 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 # Supported By
 
+This workshop is partially supported by the Horizon Europe **EIC project [SymAware](https://symaware.eu)** under the grant agreement 101070802.
+
 <table>
   <tr>
     <!--<td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>-->
     <!--<td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>-->
+    <td> <img  src="assets/img/logo-symaware.png" alt="Genova Logo" width="300"/> </td>
     <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
     <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
   <!--</tr>
