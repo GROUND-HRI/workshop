@@ -229,6 +229,18 @@ defaults:
     values:
       image_col         : gallery
 
+  -
+    scope:
+      path: "assets/img/sponsor/2024"
+    values:
+      image_col         : sponsor2024
+  
+  -
+    scope:
+      path: "assets/img/sponsor/2023"
+    values:
+      image_col         : sponsor2023
+
 
 # XX. Other settings - no need to modify
 # HTML Compression
