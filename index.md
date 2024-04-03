@@ -79,8 +79,6 @@ This workshop is partially supported by the Horizon Europe **EIC project [SymAwa
   </tr>
 </table>
 
-{% include_cached snippets/masonry.html internal="sponsor2024" %}
-
 ---
 
 <p class="card-text"><small class="text-muted">Spalsh art designed by Chahin Mohamed. "Scribbly Robot Frands". June, 2021. <a>https://www.artstation.com/artwork/B1PAAk</a></small></p>
