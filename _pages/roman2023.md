@@ -45,9 +45,7 @@ Here are some feedback about group-robot interaction from the interactive sessio
 | Lightning talk by **Pablo Barros** + QA  | 09:15 AM                       | 04:15 PM                      |
 | (G)Round Table + conclusion              | 09:35 AM                       | 04:35 PM                      |
 
-For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
-
- ---
+---
 
 ## Paper Presentation Session
 

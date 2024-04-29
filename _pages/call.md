@@ -52,7 +52,7 @@ Authors are invited to present their contribution in the form of <b>posters</b> 
 The organizers are also working on a follow-up Special Issue in the Journal of Interaction Studies. Authors will be invited to submit an extended version of their contribution to reach the broad research community. More details will follow.
 </p>
 
-For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
+For any inquiry, please contact us at [workshop.ground{at}gmail.com](mailto:workshop.ground@gmail.com).
 
 ---
 
