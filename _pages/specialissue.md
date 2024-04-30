@@ -60,7 +60,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 						<div class="card-body">
 							<h5 class="card-title">Alessandra Sciutti</h5>
 							<h6>Senior Editor</h6>
-							<p class="card-text">Tenure Track Researcher, head of the <a href="https://www.iit.it/it/web/cognitive-architecture-for-collaborative-technologies/home">CONTACT (COgNiTive Architecture for Collaborative Technologies)</a> Unit of the Italian Institute of Technology (IIT).</p>
+							<p class="card-text">Tenure Track Researcher, head of the <a href="https://www.iit.it/it/web/cognitive-architecture-for-collaborative-technologies/home">CONTACT</a> Unit - Italian Institute of Technology</p>
 						</div>
 					</div>
 				</div>
@@ -81,12 +81,6 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 							<h5 class="card-title">Linda Lastrico</h5>
 							<h6>Guest Editor</h6>
 							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
-							<div class="socials">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-							</div>
 						</div>
 					</div>
 				</div>
@@ -97,12 +91,6 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 							<h5 class="card-title">Dario Pasquali</h5>
 							<h6>Guest Editor</h6>
 							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
-							<div class="socials">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-							</div>
 						</div>
 					</div>
 				</div>
