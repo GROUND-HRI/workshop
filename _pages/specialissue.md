@@ -98,12 +98,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 		</div>
 	</div>
 
-
-
-
-
-
-
+</br></br>
 
 For any inquiry, please contact us at [workshop.ground{at}gmail.com](mailto:workshop.ground@gmail.com).
 
