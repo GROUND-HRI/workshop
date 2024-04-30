@@ -50,6 +50,85 @@ Please refer to <a>https://benjamins.com/catalog/is/submission</a>. The option â
 Each submission will be evaluated by at least two reviewers chosen from experts in the field. The guest editors will evaluate and discuss the reviews to make a final decision regarding each submission.â€¯ 
 </p>
 
+## Editors
+<div class="wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-lg-4">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/sarahG.png">
+						<div class="card-body">
+							<h5 class="card-title">Alessandra Sciutti</h5>
+							<h6>Senior Editor</h6>
+							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
+							<div class="socials">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="#"><i class="fa fa-dribbble"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/gb.png">
+						<div class="card-body">
+							<h5 class="card-title">Giulia Belgiovine</h5>
+							<h6>Guest Editor</h6>
+							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
+							<div class="socials">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="#"><i class="fa fa-dribbble"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/ll.png">
+						<div class="card-body">
+							<h5 class="card-title">Linda Lastrico</h5>
+							<h6>Guest Editor</h6>
+							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
+							<div class="socials">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="#"><i class="fa fa-dribbble"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-4">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/dp.png">
+						<div class="card-body">
+							<h5 class="card-title">Dario Pasquali</h5>
+							<h6>Guest Editor</h6>
+							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
+							<div class="socials">
+								<a href="#"><i class="fa fa-facebook"></i></a>
+                                <a href="#"><i class="fa fa-youtube"></i></a>
+                                <a href="#"><i class="fa fa-linkedin"></i></a>
+                                <a href="#"><i class="fa fa-dribbble"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
+
+
+
 For any inquiry, please contact us at [workshop.ground{at}gmail.com](mailto:workshop.ground@gmail.com).
 
 ---
