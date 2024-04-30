@@ -54,48 +54,33 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 <div class="wrapper">
 		<div class="container">
 			<div class="row">
-
-				<div class="col-md-6 col-lg-4">
+				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/as.jpg">
 						<div class="card-body">
 							<h5 class="card-title">Alessandra Sciutti</h5>
 							<h6>Senior Editor</h6>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
-							<div class="socials">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-							</div>
+							<p class="card-text">Tenure Track Researcher, head of the <a href="https://www.iit.it/it/web/cognitive-architecture-for-collaborative-technologies/home">CONTACT (COgNiTive Architecture for Collaborative Technologies)</a> Unit of the Italian Institute of Technology (IIT).</p>
 						</div>
 					</div>
 				</div>
-
-				<div class="col-md-6 col-lg-4">
+				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/gb.png">
 						<div class="card-body">
 							<h5 class="card-title">Giulia Belgiovine</h5>
 							<h6>Guest Editor</h6>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
-							<div class="socials">
-								<a href="#"><i class="fa fa-facebook"></i></a>
-                                <a href="#"><i class="fa fa-youtube"></i></a>
-                                <a href="#"><i class="fa fa-linkedin"></i></a>
-                                <a href="#"><i class="fa fa-dribbble"></i></a>
-							</div>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
 						</div>
 					</div>
 				</div>
-
-				<div class="col-md-6 col-lg-4">
+				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/ll.png">
 						<div class="card-body">
 							<h5 class="card-title">Linda Lastrico</h5>
 							<h6>Guest Editor</h6>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
 							<div class="socials">
 								<a href="#"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-youtube"></i></a>
@@ -105,14 +90,13 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 						</div>
 					</div>
 				</div>
-
-				<div class="col-md-6 col-lg-4">
+				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/dp.png">
 						<div class="card-body">
 							<h5 class="card-title">Dario Pasquali</h5>
 							<h6>Guest Editor</h6>
-							<p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse amet repellat, eaque aliquid similique eius alias facilis quisquam, ipsa dolor.</p>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
 							<div class="socials">
 								<a href="#"><i class="fa fa-facebook"></i></a>
                                 <a href="#"><i class="fa fa-youtube"></i></a>
