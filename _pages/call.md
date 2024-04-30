@@ -47,10 +47,9 @@ The submitted contribution must be written in <b>English</b> and do not need to 
 
 The contributions may include work in progress with preliminary results, technical reports, case studies, surveys, and state-of-the-art research.<br>
 
-Authors are invited to present their contribution in the form of <b>posters</b> after a short pitch to the audience, to facilitate open discussion in groups. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv).<br>
+Authors are invited to present their contribution in the form of <b>posters</b> after a short pitch to the audience, to facilitate open discussion in groups. <b>The best poster will be awarded a 200$ reimbursement kindly granted by the <a href="https://www.ieee-ras.org/cognitive-robotics"> Technical Committee for Cognitive Robotics</a></b>. Also, they will be offered the option of having their papers uploaded to a workshop-specific archive in an open-access repository (e.g., arXiv).</p>
 
-The organizers are also working on a follow-up Special Issue in the Journal of Interaction Studies. Authors will be invited to submit an extended version of their contribution to reach the broad research community. More details will follow.
-</p>
+**Furthermore, the authors will will be invited to submit an extended version of their contribution to the follow-up Special Issue on "Group-Robot Interaction" to be published in the Journal of Interaction Studies. See the [dedicated page](/specialissue) for more information.**
 
 For any inquiry, please contact us at [workshop.ground{at}gmail.com](mailto:workshop.ground@gmail.com).
 
