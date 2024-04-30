@@ -54,9 +54,10 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 <div class="wrapper">
 		<div class="container">
 			<div class="row">
+
 				<div class="col-md-6 col-lg-4">
 					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/sarahG.png">
+						<img alt="..." class="card-img-top" src="assets/img/as.jpg">
 						<div class="card-body">
 							<h5 class="card-title">Alessandra Sciutti</h5>
 							<h6>Senior Editor</h6>
@@ -70,6 +71,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 						</div>
 					</div>
 				</div>
+
 				<div class="col-md-6 col-lg-4">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/gb.png">
@@ -86,6 +88,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 						</div>
 					</div>
 				</div>
+
 				<div class="col-md-6 col-lg-4">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/ll.png">
@@ -102,6 +105,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 						</div>
 					</div>
 				</div>
+
 				<div class="col-md-6 col-lg-4">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/dp.png">
