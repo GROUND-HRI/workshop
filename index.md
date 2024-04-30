@@ -17,6 +17,8 @@ og_image: assets/img/robots_fix.png
 redirect_to: "https://ground-hri.github.io/workshop/"
 ---
 
+![News](assets/img/news.png)
+
 ### GROUND 2024 Confirmed!!
 
 We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in Delft on **July 19th afternoon**!
