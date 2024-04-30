@@ -44,7 +44,7 @@ These topics are meant to be suggestive and not exhaustive, contributions to oth
 ## Submission Procedure
 
 <p style="text-align: justify;">
-Please refer to <a>https://benjamins.com/catalog/is/submission</a>. The option “Special Issue: Group-Robot Interaction” can be selected during the submission process from the drop-down menu on the "General Information" section.
+Please refer to <a href="https://benjamins.com/catalog/is/submission">https://benjamins.com/catalog/is/submission</a>. The option “Special Issue: Group-Robot Interaction” can be selected during the submission process from the drop-down menu on the "General Information" section.
 <br>
 
 Each submission will be evaluated by at least two reviewers chosen from experts in the field. The guest editors will evaluate and discuss the reviews to make a final decision regarding each submission.  
