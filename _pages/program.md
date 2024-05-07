@@ -85,7 +85,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">Randy Gomez</h1>
 				<div class="postcard__subtitle small">
-					Honda Research Institute
+					Honda Research Institute Japan
 				</div>
 				<div class="postcard__bar"></div>
 				<div class="postcard__preview-txt">TBD</div>
