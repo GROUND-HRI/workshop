@@ -83,9 +83,9 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				<img class="postcard__img" src="assets/placeholders/13.png" alt="" />	
 			</a>
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue">Keynote Speaker 2</h1>
+				<h1 class="postcard__title blue">Randy Gomez</h1>
 				<div class="postcard__subtitle small">
-					TBD
+					Honda Research Institute
 				</div>
 				<div class="postcard__bar"></div>
 				<div class="postcard__preview-txt">TBD</div>
