@@ -21,7 +21,7 @@ redirect_to: "https://ground-hri.github.io/workshop/"
 
 ### GROUND 2024 Confirmed!!
 
-We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in Delft on **July 19th afternoon**!
+We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in **hybrid format** in Delft on **July 19th afternoon**!
 
 For any inquiry, please contact us at [workshop.ground{at}gmail.com](mailto:workshop.ground@gmail.com).
 
