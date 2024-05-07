@@ -80,7 +80,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
         </article>
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/placeholders/13.png" alt="" />	
+				<img class="postcard__img" src="assets/img/randy.jpg" alt="" />	
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">Randy Gomez</h1>
