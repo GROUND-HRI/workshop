@@ -65,7 +65,7 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
 
 # Supported By
 
-This workshop is partially supported by the Horizon Europe **EIC project [SymAware](https://symaware.eu)** under the grant agreement 101070802.
+This workshop is partially supported by the Project **[Future Artificial Intelligence Research (FAIR)](https://fondazione-fair.it/)**, code PE000013 funded by the European Union - NextGenerationEU PNRR MUR - M4C2 - Investimento 1.3 - Avviso Creazione di "Partenariati estesi alle università, ai centri di ricerca, alle aziende per il finanziamento di progetti di ricerca di base" CUP J53C22003010006 and by the Horizon Europe **EIC project [SymAware](https://symaware.eu)** under the grant agreement 101070802.
 
 <table>
   <tr>
