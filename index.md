@@ -77,7 +77,7 @@ This workshop is partially supported by the Horizon Europe **EIC project [SymAwa
     <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
   <!--</tr>
   <tr>-->
-    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="300"/> </td>
+    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="200"/> </td>
     <td> <img src="assets/img/TC_HRI.png" alt="IEEE RAS" width="300"/> </td>
   </tr>
 </table>
