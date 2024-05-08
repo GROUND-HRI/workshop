@@ -73,6 +73,7 @@ This workshop is partially supported by the Horizon Europe **EIC project [SymAwa
     <!--<td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>-->
     <td> <img  src="assets/img/logo-symaware.png" alt="Genova Logo" width="300"/> </td>
     <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
+    <td> <img src="assets/img/fair.svg" alt="Raise" width="300"/> </td>
     <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
   <!--</tr>
   <tr>-->
