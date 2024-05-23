@@ -92,6 +92,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>Computational Approaches to Interaction-Shaping Robotics</b><br>
 			        Humans thrive on positive social interactions, yet dominance, competence and inclusion issues can create hurdles.  Research suggests robots can support interactions between people.  However, for real-world applications and deployment, we need to develop autonomous social robots that can interact with multiple people and adapt to human-human dynamics.  This talk explores the importance of such adaptation, showcasing how robots using simple perception and rules can significantly shape interactions positively. To pave the way for more complex interactions, the talk delves into leveraging machine learning techniques like reinforcement learning and imitation learning. It will discuss how to implement these techniques while ensuring the robot acts appropriately throughout learning and deployment.
+                </div>
             </div>
         </article>
     </div>
