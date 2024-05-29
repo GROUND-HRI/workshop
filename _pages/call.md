@@ -31,9 +31,9 @@ Topics of interests include but are not limited to:
 These topics are meant to be suggestive and not exhaustive, contributions to other relevant topics will also be taken into consideration, as long as they fit with the general theme of the workshop. 
 
 ## Important Dates
-* Submission Deadline: ~31st of May~ **10th of June** 
-* Notification of Acceptance: ~10th of June~ **21st of June**
-* Camera Ready: ~1st of July~ **1st of July**
+* Submission Deadline: ~~31st of May~~ **10th of June** 
+* Notification of Acceptance: ~~10th of June~~ **21st of June**
+* Camera Ready: ~~1st of July~~ **1st of July**
 * **Poster Camera Ready**: **8th of July**
 
 
