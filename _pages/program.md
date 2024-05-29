@@ -25,11 +25,11 @@ GROUND 2024 will be a **Half Day** Workshop. Participants are invited to present
 |:-----------------------------------------:|:--------------------:|
 | Introduction                              | 10 min               |
 | Ice-breaking activity                     | 30 min               |
-| **Keynote Talk** - Randy Gomez            | 30 min               |
+| **Keynote Talk** - Sarah Sebo             | 30 min               |
+| **Lightning Talk** - Sarah Gillet         | 20 min               |
 | Carousel Poster Presentation              | max 2 min per poster |
 | Coffee Break + Poster Session             | 40 min               |
-| **Lightning Talk** - Sarah Gillet         | 20 min               |
-| **Keynote Talk** - Sarah Sebo             | 30 min               |
+| **Keynote Talk** - Randy Gomez            | 30 min               |
 | (G)Round Table: debate + activity         | 60 min               |
 
 
