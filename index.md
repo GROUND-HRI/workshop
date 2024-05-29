@@ -17,7 +17,7 @@ og_image: assets/img/robots_fix.png
 redirect_to: "https://ground-hri.github.io/workshop/"
 ---
 
-![News](assets/img/news.png)
+[![News](assets/img/news.png)](/call)
 
 ### GROUND 2024 Confirmed!!
 
