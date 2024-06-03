@@ -30,6 +30,7 @@ GROUND 2024 will be a **Half Day** Workshop. Participants are invited to present
 | Carousel Poster Presentation              | max 2 min per poster |
 | Coffee Break + Poster Session             | 40 min               |
 | **Keynote Talk** - Randy Gomez            | 30 min               |
+| **Lightning Talk** - Raquel Ros           | 20 min               |
 | (G)Round Table: debate + activity         | 60 min               |
 
 
@@ -92,6 +93,21 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>Computational Approaches to Interaction-Shaping Robotics</b><br>
 			        Humans thrive on positive social interactions, yet dominance, competence and inclusion issues can create hurdles.  Research suggests robots can support interactions between people.  However, for real-world applications and deployment, we need to develop autonomous social robots that can interact with multiple people and adapt to human-human dynamics.  This talk explores the importance of such adaptation, showcasing how robots using simple perception and rules can significantly shape interactions positively. To pave the way for more complex interactions, the talk delves into leveraging machine learning techniques like reinforcement learning and imitation learning. It will discuss how to implement these techniques while ensuring the robot acts appropriately throughout learning and deployment.
+                </div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/img/ROS.png" alt="Image Title" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Raquel Ros</h1>
+                <div class="postcard__subtitle small">
+				PAL Robotics - Senior Scientist
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt"><b>TBD</b><br>
+			        TBD
                 </div>
             </div>
         </article>
