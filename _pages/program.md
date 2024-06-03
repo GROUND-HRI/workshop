@@ -21,17 +21,16 @@ og_image: assets/img/robots_fix.png
 
 GROUND 2024 will be a **Half Day** Workshop. Participants are invited to present their contribution in the form of **posters** to facilitate open discussion in groups.
 
-| Activity                                  | Duration             |
-|:-----------------------------------------:|:--------------------:|
-| Introduction                              | 10 min               |
-| Ice-breaking activity                     | 30 min               |
-| **Keynote Talk** - Sarah Sebo             | 30 min               |
-| **Lightning Talk** - Sarah Gillet         | 20 min               |
-| Carousel Poster Presentation              | max 2 min per poster |
-| Coffee Break + Poster Session             | 40 min               |
-| **Keynote Talk** - Randy Gomez            | 30 min               |
-| **Lightning Talk** - Raquel Ros           | 20 min               |
-| (G)Round Table: debate + activity         | 60 min               |
+| Time (GMT+2)  | Activity                                  | Duration             |
+|:-------------:|:-----------------------------------------:|:--------------------:|
+|2:00 PM        | Ice-breaking activity                     | 30 min               |
+|2:30 PM        | **Keynote Talk** - Sarah Sebo             | 30 min               |
+|3:00 PM        | **Lightning Talk** - Sarah Gillet         | 20 min               |
+|3:20 PM        | Carousel Poster Presentation              | max 2 min per poster |
+|3:30 PM        | Coffee Break + Poster Session             | 40 min               |
+|4:10 PM        | **Keynote Talk** - Randy Gomez            | 30 min               |
+|4:40 PM        | **Lightning Talk** - Raquel Ros           | 20 min               |
+|5:00 PM        | (G)Round Table                            | 60 min               |
 
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
@@ -49,7 +48,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Sarah Sebo</h1>
                 <div class="postcard__subtitle small">
-				University of Chicago - Human-Robot Interaction (HRI) Lab
+				Assistant Professor, University of Chicago
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>Designing Social Robots to Positively Shape Interactions with Groups of People</b><br>
@@ -88,7 +87,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Sarah Gillet</h1>
                 <div class="postcard__subtitle small">
-				KTH - Division of Robotics, Perception and Learning
+				PhD Candidate, KTH
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>Computational Approaches to Interaction-Shaping Robotics</b><br>
@@ -103,7 +102,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Raquel Ros</h1>
                 <div class="postcard__subtitle small">
-				PAL Robotics - Senior Scientist
+				Senior Scientist, PAL Robotics
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt"><b>TBD</b><br>
