@@ -110,17 +110,17 @@ navbar:
   nav:
   - title : Call for Papers
     url   : /call
-  - title : Attendance
+  - title : Join Us!
     url   : /attendance
-  - title : Workshop Program
+  - title : Program
     url   : /program
-  - title : Special Issue "Group-Robot Interaction"
+  - title : Special Issue
     url   : /specialissue
   - title : Organizers
     url   : /organizers
   #- title : Accepted Papers
   #  url   : /accepted-papers
-  - title : RO-MAN 2023
+  - title : Past Editions
     url   : /1stEditionROMAN2023
   #- title   : Extras
   #  child   :
