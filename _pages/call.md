@@ -34,7 +34,7 @@ These topics are meant to be suggestive and not exhaustive, contributions to oth
 * Submission Deadline: ~~31st of May~~ ~~10th of June~~ **18th of June**
 * Notification of Acceptance: ~~10th of June~~ **21st of June**
 * Camera Ready: ~~1st of July~~ **1st of July**
-* **Poster Camera Ready**: **8th of July**
+* **Poster Camera Ready (Up to A1, Portrait format)**: **8th of July**
 
 
 ## Submission Procedure
