@@ -105,8 +105,8 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				Senior Scientist, PAL Robotics
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt"><b>TBD</b><br>
-			        TBD
+                <div class="postcard__preview-txt"><b>Exploring In-the-Wild Multi-Party Human-Robot Interactions</b><br>
+			        Like many other issues, transitioning from one to many is not straightforward. This is especially true in the field of Human-Robot Interaction, where one-to-one interactions are still not fully understood or resolved. However, we cannot afford to wait until these issues are completely addressed before tackling the problem of many-to-many interactions. There are numerous scenarios that only occur in multi-party contexts, and we must approach them from this unique perspective. In this talk, I will not offer solutions but will highlight real-world situations where our robots need to manage multiple multi-modal interactions. These examples will illustrate the complexity of the problem and, hopefully, provide valuable insights into the challenges our community must tackle in the coming years.
                 </div>
             </div>
         </article>

@@ -5,9 +5,9 @@ header_img: /assets/img/robots.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>19th of July 2024 - RSS 2024, Delft</b>
 
 project_links:
-    - url: /call
-      icon: fa-solid fa-paper-plane # fab fa-github fa-lg
-      label: Submit your Paper!
+    - url: /attebdabce
+      icon: fa-solid fa-people-group # fab fa-github fa-lg
+      label: Join Us!
 
 og_title: GROUND - Home
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior
@@ -17,7 +17,7 @@ og_image: assets/img/robots_fix.png
 redirect_to: "https://ground-hri.github.io/workshop/"
 ---
 
-[![News](assets/img/news.png)](/workshop/call)
+[![News](assets/img/news.gif)](/workshop/call)
 
 ### GROUND 2024 Confirmed!!
 
