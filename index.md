@@ -5,7 +5,7 @@ header_img: /assets/img/robots.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>19th of July 2024 - RSS 2024, Delft</b>
 
 project_links:
-    - url: /attebdabce
+    - url: /attendance
       icon: fa-solid fa-people-group # fab fa-github fa-lg
       label: Join Us!
 
