@@ -13,7 +13,7 @@ og_image: assets/img/robots_fix.png
 
 **Date**: 19th of July 2024
 
-**Location**: Aula Commissiekamer 2 at **TU Delft** (n. 22 on the maps) at the [Robotics Science and Systems 2024 (RSS 2024)](https://roboticsconference.org/) confererence, Delft (Netherlands) 
+**Location**: **Aula Commissiekamer 2** at **TU Delft** (n. 20 on the maps) at the [Robotics Science and Systems 2024 (RSS 2024)](https://roboticsconference.org/) confererence, Delft (Netherlands) 
 
 **Time**: 2PM - 6PM
 
