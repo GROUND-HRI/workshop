@@ -19,11 +19,10 @@ redirect_to: "https://ground-hri.github.io/workshop/"
 
 [![News](assets/img/banners.gif)](https://uu-se.zoom.us/j/63875356687)
 
-### GROUND 2024 Confirmed!!
+### GROUND 2024 Resources
 
-We are extremely happy to announce that the **2nd Edition of the GROUND workshop** will take place in **hybrid format** in Delft on **July 19th afternoon**!
-
-For any inquiry, please contact us at [workshop.ground{at}gmail.com](mailto:workshop.ground@gmail.com).
+**Padlet**: [Link](https://padlet.com/giuliabelgiovine/Ground_Workshop_Padlet)
+**Bingo**: [Link](https://ground-hri.github.io/workshop/bingo)
 
 ### Workshop Theme & Topics of Interest
 
