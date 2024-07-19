@@ -17,11 +17,13 @@ og_image: assets/img/robots_fix.png
 redirect_to: "https://ground-hri.github.io/workshop/"
 ---
 
-<button name="button" onclick="https://padlet.com/giuliabelgiovine/Ground_Workshop_Padlet">PADLET</button>
-<button name="button" onclick="https://ground-hri.github.io/workshop/bingo">BINGO</button>
+### GROUND 2024 Resources
 
+[**Padlet**](https://padlet.com/giuliabelgiovine/Ground_Workshop_Padlet)
+[**Bingo**](https://ground-hri.github.io/workshop/bingo)
 
 [![News](assets/img/banners.gif)](https://uu-se.zoom.us/j/63875356687)
+
 
 ### Workshop Theme & Topics of Interest
 
