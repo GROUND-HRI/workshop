@@ -15,7 +15,7 @@ og_image: assets/img/robots_fix.png
 
 **Location**: **Aula Commissiekamer 2** at **TU Delft** (n. 20 on the maps) at the [Robotics Science and Systems 2024 (RSS 2024)](https://roboticsconference.org/) confererence, Delft (Netherlands) 
 
-**Zoom**: [Link](https://uu-se.zoom.us/j/63875356687 )
+**Zoom**: [Link](https://uu-se.zoom.us/j/63875356687)
 
 **Time**: 2PM - 6PM
 
