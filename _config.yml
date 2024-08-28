@@ -235,6 +235,12 @@ defaults:
 
   -
     scope:
+      path: "assets/img/gallery_delft"
+    values:
+      image_col         : gallery_delft
+
+  -
+    scope:
       path: "assets/img/sponsor/2024"
     values:
       image_col         : sponsor2024

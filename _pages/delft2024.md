@@ -1,10 +1,10 @@
 ---
 layout: indexcategory
-title: "RO-MAN 2023 - 1st Edition"
+title: "Robotics: Science and Systems (RSS) 2024 - 2nd Edition"
 include_collection: _past-editions
 permalink: /RSS2024
 header_type: hero
-header_img: /assets/img/roman-banner.png
+header_img: /assets/img/rss-banner.png
 #index_sort_asc: true
 ---
 
@@ -13,16 +13,17 @@ header_img: /assets/img/roman-banner.png
 
 The 2nd edition of the GROUND Workshop, held at the <a href="https://roboticsconference.org/"><b>Robotics: Science and Systems (RSS)</b> Conference</a>, concluded with flying colors! We gathered almost 40 researchers - in person and through Zoom - sharing our love for group-robot interaction! 
 
----
-
-<!--Here are some feedback about group-robot interaction from the interactive sessions.
-
-
-![Workshop Outcomes](assets/img/outcomes.png)
+![recap](assets/img/rss_outcomes/recap.png)
 
 ---
 
-![Feedback](assets/img/comments.png)-->
+Here are some feedback about group-robot interaction from the interactive sessions.
+
+![Outcomes 1](assets/img/rss_outcomes/out1.png)
+
+---
+
+![Outcome 2](assets/img/rss_outcomes/out2.png)-->
 
 ---
 
@@ -148,22 +149,11 @@ The 2nd edition of the GROUND Workshop, held at the <a href="https://roboticscon
 
 ## Gallery
 
-<!--{% include_cached snippets/masonry.html internal="gallery" %}-->
+{% include_cached snippets/masonry.html internal="gallery_delft" %}
 
 ---
 
 
 # Supported By
 
-<table>
-  <tr>
-    <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
-    <td> <img  src="assets/img/CONTACT.png" alt="wHisper" width="300"/> </td>
-    <td> <img  src="assets/img/RBCS.png" alt="wHisper" width="250"/> </td>
-    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
-    <td> <img src="assets/img/fair.svg" alt="Raise" width="300"/> </td>
-    <td> <img src="assets/img/coro.jpeg" alt="CoRo" width="200"/> </td>
-    <td> <img src="assets/img/TC_HRI.png" alt="IEEE RAS" width="300"/> </td>
-    <td> <img  src="assets/img/logo-symaware.png" alt="Genova Logo" width="300"/> </td>
-  </tr>
-</table>
+![ACK](assets/img/rss_outcomes/ack.png)
