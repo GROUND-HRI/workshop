@@ -6,7 +6,7 @@ subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>19t
 
 project_links:
     - url: https://uu-se.zoom.us/j/63875356687
-      icon: fa-solid fa-video # fab fa-github fa-lg
+      icon: fa-solid fa-paper-plane
       label: Submit to our Special Issue!
 
 og_title: GROUND - Home
