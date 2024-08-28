@@ -5,7 +5,7 @@ header_img: /assets/img/robots.gif
 subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>19th of July 2024 - RSS 2024, Delft</b>
 
 project_links:
-    - url: https://uu-se.zoom.us/j/63875356687
+    - url: /workshop/specialissue
       icon: fa-solid fa-paper-plane
       label: Submit to our Special Issue!
 
