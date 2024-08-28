@@ -11,19 +11,17 @@ header_img: /assets/img/rss-banner.png
 ## Workshop Highlights
 
 
-The 2nd edition of the GROUND Workshop, held at the <a href="https://roboticsconference.org/"><b>Robotics: Science and Systems (RSS)</b> Conference</a>, concluded with flying colors! We gathered almost 40 researchers - in person and through Zoom - sharing our love for group-robot interaction! 
+The 2nd edition of the GROUND Workshop, held at the <a href="https://roboticsconference.org/"><b>Robotics: Science and Systems (RSS)</b> Conference</a>, wrapped up succesfully!! Bringing this HRI topic to a conference focused on pure robotics was challenging, but we successfully gathered nearly 40 researchers, both in person and via Zoom, all united by our passion for group-robot interaction 
 
 ![recap](assets/img/rss_outcomes/recap.png)
 
 ---
 
-Here are some feedback about group-robot interaction from the interactive sessions.
+Some feedback from the interactive sections!
 
 ![Outcomes 1](assets/img/rss_outcomes/out1.png)
 
----
-
-![Outcome 2](assets/img/rss_outcomes/out2.png)-->
+![Outcome 2](assets/img/rss_outcomes/out2.png)
 
 ---
 
@@ -45,10 +43,12 @@ Here are some feedback about group-robot interaction from the interactive sessio
 ## Contributions
 
 #### Moderating Group Conversation Dynamics with Social Robots [(Download Poster)](../assets/posters/1_Grassi_Moderating_Group_Conversation.pdf)
+**Best Poster Winner!⭐**
 *Lucrezia Grassi, Carmine Recchiuto and Antonio Sgorbissa*<br>
 <p style="text-align: justify;">This research investigates the impact of social robot participation in group conversations and assesses the effectiveness of various addressing policies. The study involved 300 participants, divided into groups of four, interacting with a humanoid robot serving as the moderator. The robot utilized conversation data to determine the most appropriate speaker to address. The findings indicate that the robot's addressing policy significantly influenced conversation dynamics, resulting in more balanced attention to each participant and a reduction in subgroup formation.</p>
 
 #### Egocentric Robots in a Human-Centric World? Exploring Group-Robot-Interaction in Public Spaces [(Download Poster)](../assets/posters/2_Müller_Egocentric_Robots.pdf)
+**Best Poster Winner!⭐**
 *Ana Müller and Anja Richert*<br>
 <p style="text-align: justify;">The deployment of social robots in real-world sce- narios is increasing, supporting humans in various contexts. However, they still struggle to grasp social dynamics, especially in public spaces, sometimes resulting in violations of social norms, such as interrupting human conversations. This behavior, originating from a limited processing of social norms, might be perceived as robot-centered. Understanding social dynamics, particularly in group-robot-interactions (GRI), underscores the need for further research and development in human-robot- interaction (HRI). Enhancing the interaction abilities of social robots, especially in GRIs, can improve their effectiveness in real- world applications on a micro-level, as group interactions lead to increased motivation and comfort. In this study, we assessed the influence of the interaction condition (dyadic vs. tridaic) on the perceived extraversion (ext.) of social robots in public spaces. The research involved 40 HRIs, including 24 dyadic (i.e., one human and one robot) interactions and 16 triadic interactions, which involve at least three entities, including the robot.</p>
 
