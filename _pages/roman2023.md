@@ -15,10 +15,6 @@ The 1st edition of the GROUND Workshop, held at the <a href="http://ro-man2023.o
 
 <!--![GROUND Plan](assets/img/romanBanner.jpeg)-->
 
-## Gallery
-
-{% include_cached snippets/masonry.html internal="gallery" %}
-
 ---
 
 Here are some feedback about group-robot interaction from the interactive sessions.
@@ -130,6 +126,14 @@ The contributions have be presented in the following order:
 		</article>
     </div>
 </section>
+
+
+## Gallery
+
+{% include_cached snippets/masonry.html internal="gallery" %}
+
+---
+
 
 # Supported By
 
