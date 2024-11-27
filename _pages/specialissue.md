@@ -34,11 +34,11 @@ Topics of interests include but are not limited to:
 These topics are meant to be suggestive and not exhaustive, contributions to other relevant topics will also be taken into consideration, as long as they fit with the general theme of the workshop. 
 
 ## Important Dates
-* Submission Deadline: **15th December 2024**
-* First notification to the authors: **15th March 2025**
-* Deadline for revised papers submission: **15th April 2025**
-* Final notification for authors: **15th June 2025**
-* Submission of camera-ready manuscripts: **15th July 2025**
+* Submission Deadline: **15th January 2025**
+* First notification to the authors: **15th April 2025**
+* Deadline for revised papers submission: **15th May 2025**
+* Final notification for authors: **15th July 2025**
+* Submission of camera-ready manuscripts: **15th August 2025**
 
 
 ## Submission Procedure
