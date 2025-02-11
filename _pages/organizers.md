@@ -18,7 +18,7 @@ og_image: assets/img/robots_fix.png
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/gb.png">
 						<div class="card-body">
-							<h6 class="card-title">[Giulia Belgiovine](#GB)</h6>
+							<h6 class="card-title"><a href="#GB">Giulia Belgiovine</a></h6>
 							<p class="card-text">PostDoc @ CONTACT - IIT</p>
 						</div>
 					</div>
@@ -27,7 +27,7 @@ og_image: assets/img/robots_fix.png
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/dp.png">
 						<div class="card-body">
-							<h6 class="card-title">[Dario Pasquali](#DP)</h6>
+							<h6 class="card-title"><a href="#DP">Dario Pasquali</a></h6>
 							<p class="card-text">PostDoc @ CONTACT - IIT</p>
 						</div>
 					</div>
@@ -36,7 +36,7 @@ og_image: assets/img/robots_fix.png
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/ll.png">
 						<div class="card-body">
-							<h6 class="card-title">[Linda Lastrico](#LL)</h6>
+							<h6 class="card-title"><a href="#LL">Linda Lastrico</a></h6>
 							<p class="card-text">PostDoc @ CONTACT - IIT</p>
 						</div>
 					</div>
@@ -45,7 +45,7 @@ og_image: assets/img/robots_fix.png
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/gp.png">
 						<div class="card-body">
-							<h6 class="card-title">[Giulia Pusceddu](#GP)</h6>
+							<h6 class="card-title"><a href="#GP">Giulia Pusceddu</a></h6>
 							<p class="card-text">PostDoc @ CONTACT - IIT</p>
 						</div>
 					</div>
@@ -54,7 +54,7 @@ og_image: assets/img/robots_fix.png
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/fc.png">
 						<div class="card-body">
-							<h6 class="card-title">[Francesca Cocchella](#FC)</h6>
+							<h6 class="card-title"><a href="#FC">Francesca Cocchella</a></h6>
 							<p class="card-text">PhD Student @ CONTACT - IIT</p>
 						</div>
 					</div>
@@ -63,7 +63,7 @@ og_image: assets/img/robots_fix.png
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/at.png">
 						<div class="card-body">
-							<h6 class="card-title">[Ana Tanevska](#AT)</h6>
+							<h6 class="card-title"><a href="#AT">Ana Tanevska</a></h6>
 							<p class="card-text">PostDoc @ USR Lab</p>
 						</div>
 					</div>
