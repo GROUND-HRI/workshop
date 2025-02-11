@@ -11,11 +11,74 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
+<div class="wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 col-lg-3">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/gb.png">
+						<div class="card-body">
+							<h5 class="card-title">Giulia Belgiovine</h5>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/ll.png">
+						<div class="card-body">
+							<h5 class="card-title">Linda Lastrico</h5>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/dp.png">
+						<div class="card-body">
+							<h5 class="card-title">Dario Pasquali</h5>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
+						</div>
+					</div>
+				</div>
+                <div class="col-md-6 col-lg-3">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/gp.png">
+						<div class="card-body">
+							<h5 class="card-title">Giulia Pusceddu</h5>
+							<p class="card-text">Postdoctoral Researcher @ CONTACT - Italian Institute of Technology</p>
+						</div>
+					</div>
+				</div>
+                <div class="col-md-6 col-lg-3">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/fc.png">
+						<div class="card-body">
+							<h5 class="card-title">Francesca Cocchella</h5>
+							<p class="card-text">Ph.D. Student @ CONTACT - Istituto Italiano di Tecnologia</p>
+						</div>
+					</div>
+				</div>
+                <div class="col-md-6 col-lg-3">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/at.png">
+						<div class="card-body">
+							<h5 class="card-title">Ana Tanevska</h5>
+							<p class="card-text">Postdoctoral researcher @ Social Robotics Lab - Uppsala University</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
 <section class="light">
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/gb.png" alt="Giulia Belgiovine" />
+                <img class="postcard__img" src="assets/img/organizers/gb.png" alt="Giulia Belgiovine" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Giulia Belgiovine</h1>
@@ -26,7 +89,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/dp.png" alt="Dario Pasquali" />
+                <img class="postcard__img" src="assets/img/organizers/dp.png" alt="Dario Pasquali" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Dario Pasquali</h1>
@@ -37,7 +100,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/fc.png" alt="Francesca Cocchella" />
+                <img class="postcard__img" src="assets/img/organizers/fc.png" alt="Francesca Cocchella" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Francesca Cocchella</h1>
@@ -48,7 +111,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/gp.png" alt="Giulia Pusceddu" />
+                <img class="postcard__img" src="assets/img/organizers/gp.png" alt="Giulia Pusceddu" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Giulia Pusceddu</h1>
@@ -59,7 +122,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/ll.png" alt="Linda Lastrico" />
+                <img class="postcard__img" src="assets/img/organizers/ll.png" alt="Linda Lastrico" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Linda Lastrico</h1>
@@ -71,7 +134,7 @@ og_image: assets/img/robots_fix.png
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/at.png" alt="Ana" />
+                <img class="postcard__img" src="assets/img/organizers/at.png" alt="Ana" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Ana Tanevska</h1>

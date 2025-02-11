@@ -108,14 +108,14 @@ navbar:
     title   :  # Title in navbar
     img     :  assets/img/Ground.png
   nav:
-  #- title : Program
-  #  url   : /program
-  - title : Special Issue
-    url   : /specialissue
-  #- title : Call for Papers
-  #  url   : /call
-  - title : Keep in Touch!
-    url   : /attendance
+  - title : Program
+    url   : /program
+  #- title : Special Issue
+  #  url   : /specialissue
+  - title : Call for Papers
+    url   : /call
+  #- title : Keep in Touch!
+  #  url   : /attendance
   - title : Organizers
     url   : /organizers
   #- title : Accepted Papers

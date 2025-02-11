@@ -56,7 +56,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 			<div class="row">
 				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/as.jpg">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/as.jpg">
 						<div class="card-body">
 							<h5 class="card-title">Alessandra Sciutti</h5>
 							<h6>Senior Editor</h6>
@@ -66,7 +66,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/gb.png">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/gb.png">
 						<div class="card-body">
 							<h5 class="card-title">Giulia Belgiovine</h5>
 							<h6>Guest Editor</h6>
@@ -76,7 +76,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/ll.png">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/ll.png">
 						<div class="card-body">
 							<h5 class="card-title">Linda Lastrico</h5>
 							<h6>Guest Editor</h6>
@@ -86,7 +86,7 @@ Each submission will be evaluated by at least two reviewers chosen from experts 
 				</div>
 				<div class="col-md-6 col-lg-3">
 					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/dp.png">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/dp.png">
 						<div class="card-body">
 							<h5 class="card-title">Dario Pasquali</h5>
 							<h6>Guest Editor</h6>
