@@ -1,5 +1,5 @@
 ---
-title: Special Issue "Group-Robot Interaction"
+title: Special Issue on Group-Robot Interaction
 subtitle: "@ Interaction Studies"
 header_type: hero
 header_img: /assets/img/banner_sketch.png
