@@ -76,7 +76,7 @@ Some feedback from the interactive sections!
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/sebo.jpeg" alt="" />
+                <img class="postcard__img" src="assets/img/speakers/sebo.jpeg" alt="" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Sarah Sebo</h1>
@@ -91,7 +91,7 @@ Some feedback from the interactive sections!
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/randy.jpg" alt="" />	
+                <img class="postcard__img" src="assets/img/speakers/randy.jpg" alt="" />	
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Randy Gomez</h1>
@@ -115,7 +115,7 @@ Some feedback from the interactive sections!
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/sarahG.png" alt="Image Title" />
+                <img class="postcard__img" src="assets/img/speakers/sarahG.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Sarah Gillet</h1>
@@ -130,7 +130,7 @@ Some feedback from the interactive sections!
         </article>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/ROS.png" alt="Image Title" />
+                <img class="postcard__img" src="assets/img/speakers/ROS.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">Raquel Ros</h1>

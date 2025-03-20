@@ -32,7 +32,7 @@ The precise program will be **released soon**.
 |morning        | **Lightning Talk** - TBD                  |
 |morning        | **Keynote Talk** - Oliver Bendel          |
 |:-------------:|:-----------------------------------------:|
-|afternoon      | **Keynote Talk** - Lorenzo Ferrini        |
+|afternoon      | **Tutorial** - Lorenzo Ferrini        |
 |afternoon      | **Poster / Papers presentation**          |
 |afternoon      | **Demos for the General Public**          |
 
