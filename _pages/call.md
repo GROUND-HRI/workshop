@@ -40,7 +40,7 @@ These topics are meant to be suggestive and not exhaustive, contributions to oth
 
 **Submission format**: (2-4 pages + references)
 
-Please submit your contribution on **[EasyChair]()**, using the predefined **[LateX](https://roboticsconference.org/docs/paper-template-latex.tar.gz)** or **[Word](https://roboticsconference.org/docs/paper-template-word.zip) templates**.
+Please submit your contribution on **[EasyChair]()**, using the predefined **[LateX](https://resource-cms.springernature.com/springer-cms/rest/v1/content/19238648/data/v8)**, **[Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WuA4JS5uZpi)** or **[Word](https://resource-cms.springernature.com/springer-cms/rest/v1/content/7117506/data/v1) templates**.
 
 <p style="text-align: justify;">
 The submitted contribution must be written in <b>English</b> and do not need to be anonymized (single-blind review process). A panel of experts from relevant fileds will be asked to review the contributions, selecting the most relevant, novel, original and high-quality ones to be included in the workshop program.<br>
