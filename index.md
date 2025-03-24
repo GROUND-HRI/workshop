@@ -2,7 +2,7 @@
 title: GROUND 2025
 header_type: splash
 header_img: /assets/img/robots.gif
-subtitle: advancing GROup UNderstanding and robots' aDaptive behavior</br><b>30th of June 2025 - IAS 2025, Genoa (Italy)</b>
+subtitle: <b>advancing GROup UNderstanding and robots' aDaptive behavior <br> 30th of June 2025 - IAS 2025, Genoa (Italy)</b>
 
 #project_links:
 #    - url: /workshop/specialissue
