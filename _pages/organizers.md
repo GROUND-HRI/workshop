@@ -68,6 +68,15 @@ og_image: assets/img/robots_fix.png
 						</div>
 					</div>
 				</div>
+                <div class="col-md-6 col-lg-2">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/sm.png">
+						<div class="card-body">
+							<h6 class="card-title"><a href="#SM">Sara Mongile</a></h6>
+							<p class="card-text">PostDoc CONTACT - IIT</p>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -122,6 +131,19 @@ og_image: assets/img/robots_fix.png
                 <div class="postcard__subtitle small">Ph.D. Student @ RBCS - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">Giulia (she/her) is a passionate Ph.D. student in Cognitive Robotics, Interaction, and Rehabilitation Technologies. Her research aims to investigate and improve the interaction between humanoid robots and groups of people. She believes that teaching robots how to deal with groups would be crucial to insert robotic devices into everyday life and could reveal fascinating insights into human group dynamics. Since 2020 she has been a Global Shaper in the Genoa Hub, of which she became Vice-Curator in July 2022. In 2017 she co-founded Ianua Studenti e Alumni, a student organization she was president of from 2020 to 2021.</div>
+            </div>
+        </article>
+        <a name="LL"></a>
+        <article class="postcard light blue">
+            <a class="postcard__img_link" href="#">
+                <img class="postcard__img" src="assets/img/organizers/ll.png" alt="Linda Lastrico" />
+            </a>
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Linda Lastrico</h1>
+                <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">
+                Linda Lastrico (she/her) is a Ph.D. fellow at the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technology, Genoa, Italy. She’s about to defend her Ph.D. thesis in collaboration with the University of Genova, where she investigated implicit communication applied to object manipulation and its implication in human-robot interaction. She has also collaborated in studies on children-robot interaction both in lab settings and in the wild. She’s passionate about science communication and dissemination: she participated in many science outreach events, and she is a Young Ambassador for the Women&Tech association.</div>
             </div>
         </article>
         <a name="LL"></a>
