@@ -133,17 +133,17 @@ og_image: assets/img/robots_fix.png
                 <div class="postcard__preview-txt">Giulia (she/her) is a passionate Ph.D. student in Cognitive Robotics, Interaction, and Rehabilitation Technologies. Her research aims to investigate and improve the interaction between humanoid robots and groups of people. She believes that teaching robots how to deal with groups would be crucial to insert robotic devices into everyday life and could reveal fascinating insights into human group dynamics. Since 2020 she has been a Global Shaper in the Genoa Hub, of which she became Vice-Curator in July 2022. In 2017 she co-founded Ianua Studenti e Alumni, a student organization she was president of from 2020 to 2021.</div>
             </div>
         </article>
-        <a name="LL"></a>
+        <a name="SM"></a>
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/organizers/ll.png" alt="Linda Lastrico" />
+                <img class="postcard__img" src="assets/img/organizers/sm.png" alt="Sara Mongile" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Linda Lastrico</h1>
+                <h1 class="postcard__title blue">Sara Monigle</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">
-                Linda Lastrico (she/her) is a Ph.D. fellow at the COgNiTive Architecture for Collaborative Technologies (CONTACT) unit of the Italian Institute of Technology, Genoa, Italy. She’s about to defend her Ph.D. thesis in collaboration with the University of Genova, where she investigated implicit communication applied to object manipulation and its implication in human-robot interaction. She has also collaborated in studies on children-robot interaction both in lab settings and in the wild. She’s passionate about science communication and dissemination: she participated in many science outreach events, and she is a Young Ambassador for the Women&Tech association.</div>
+                Sara Mongile (she/her) is a PhD Candidate at COgNiTive Architecture for Collaborative Technologies Unit of the Italian Institute of Technology (IIT). She received a Master's degree in Bioengineering from the University of Genova in 2021. During her PhD, she spent a research period at Heriot-Watt University and the National Robotarium as a participant in the “Trustworthy AI" short-term visit promoted by FAIR and Alan Turing University. Her PhD research focuses on developing a comfort-driven framework to enhance social robots’ adaptability and perception as affective agents, aiming to foster personalized human-robot interaction. Additionally, she investigated the dynamics of mixed human-robot groups in social contexts, with a particular focus on the phenomenon of social exclusion</div>
             </div>
         </article>
         <a name="LL"></a>
