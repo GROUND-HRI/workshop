@@ -29,10 +29,10 @@ The precise program will be **released soon**.
 |:-------------:|:-----------------------------------------:|
 |morning        | **Ice-breaking activity**                 |
 |morning        | **Keynote Talk** - Silvia Rossi           |
-|morning        | **Lightning Talk** - TBD                  |
+|morning        | **Lightning Talk** - Isabel Neto          |
 |morning        | **Keynote Talk** - Oliver Bendel          |
 |:-------------:|:-----------------------------------------:|
-|afternoon      | **Tutorial** - Lorenzo Ferrini        |
+|afternoon      | **Tutorial** - Lorenzo Ferrini            |
 |afternoon      | **Poster / Papers presentation**          |
 |afternoon      | **Demos for the General Public**          |
 
@@ -82,12 +82,12 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/speakers/cute_robot.png" alt="Image Title" />
+                <img class="postcard__img" src="assets/img/speakers/isabel.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">TBD</h1>
+                <h1 class="postcard__title blue">Isabel Neto</h1>
                 <div class="postcard__subtitle small">
-				TBD
+				Assistant Professor, University of Lisbon
 				</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">TBD</div>

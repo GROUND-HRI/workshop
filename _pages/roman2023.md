@@ -66,7 +66,7 @@ The contributions have be presented in the following order:
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/giovanna.png" alt="Giovanna Varni" />
+                <img class="postcard__img" src="assets/img/speakers/giovanna.png" alt="Giovanna Varni" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Giovanna Varni</h1>
@@ -79,7 +79,7 @@ The contributions have be presented in the following order:
         </article>
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/img/danilo.png" alt="Danilo Gallo" />	
+				<img class="postcard__img" src="assets/img/speakers/danilo.png" alt="Danilo Gallo" />	
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">Danilo Gallo</h1>
@@ -100,7 +100,7 @@ The contributions have be presented in the following order:
     <div class="container py-2">
         <article class="postcard light blue">
             <a class="postcard__img_link" href="#">
-                <img class="postcard__img" src="assets/img/pablo.png" alt="Image Title" />
+                <img class="postcard__img" src="assets/img/speakers/pablo.png" alt="Image Title" />
             </a>
             <div class="postcard__text t-dark">
                 <h1 class="postcard__title blue">- Pablo Barros</h1>
@@ -113,7 +113,7 @@ The contributions have be presented in the following order:
         </article>
         <article class="postcard light blue">
 			<a class="postcard__img_link" href="#">
-				<img class="postcard__img" src="assets/img/filipa_small.jpg" alt="Image Title" />	
+				<img class="postcard__img" src="assets/img/speakers/filipa_small.jpg" alt="Image Title" />	
 			</a>
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">Filipa Correia</h1>
