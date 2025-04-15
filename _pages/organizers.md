@@ -13,7 +13,7 @@ og_image: assets/img/robots_fix.png
 
 <div class="wrapper">
 		<div class="container">
-			<div class="row">
+			<div class="row" style="display: flex; justify-content: center;">
 				<div class="col-md-6 col-lg-2">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/gb.png">
@@ -51,8 +51,7 @@ og_image: assets/img/robots_fix.png
 					</div>
 				</div>
 			</div>
-
-            <div class="row">
+            <div class="row" style="display: flex; justify-content: center;">
 				<div class="col-md-6 col-lg-2">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/fc.png">
@@ -79,8 +78,7 @@ og_image: assets/img/robots_fix.png
 							<p class="card-text">PostDoc USR Lab</p>
 						</div>
 					</div>
-				</div>
-                
+				</div>                
 			</div>
 		</div>
 	</div>
