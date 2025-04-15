@@ -65,9 +65,9 @@ The workshop organizers are committed to creating an inclusive, diverse, and equ
   <tr>
     <!--<td> <img src="assets/img/genova_more.png" alt="Genova More" width="300"/> </td>-->
     <!--<td> <img  src="assets/img/genova_logo.png" alt="Genova Logo" width="300"/> </td>-->
-    <td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>
+    <!--<td> <img  src="assets/img/whisper.png" alt="wHisper" width="300"/> </td>-->
     <td> <img  src="assets/img/CONTACT.png" alt="wHisper" width="300"/> </td>
-    <!--<td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>-->
+    <td> <img src="assets/img/raise.png" alt="Raise" width="300"/> </td>
     <td> <img src="assets/img/fair.svg" alt="Raise" width="300"/> </td>
     <!--<td> <img src="assets/img/coro.jpeg" alt="CoRo" width="200"/> </td>-->
     <!--<td> <img src="assets/img/TC_HRI.png" alt="IEEE RAS" width="300"/> </td>-->

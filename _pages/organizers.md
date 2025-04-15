@@ -31,40 +31,13 @@ og_image: assets/img/robots_fix.png
 							<p class="card-text">PostDoc CONTACT - IIT</p>
 						</div>
 					</div>
-				</div>
-				<div class="col-md-6 col-lg-2">
-					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/organizers/ll.png">
-						<div class="card-body">
-							<h6 class="card-title"><a href="#LL">Linda Lastrico</a></h6>
-							<p class="card-text">PostDoc CONTACT - IIT</p>
-						</div>
-					</div>
-				</div>			
+				</div>		
                 <div class="col-md-6 col-lg-2">
 					<div class="card mx-30">
 						<img alt="..." class="card-img-top" src="assets/img/organizers/gp.png">
 						<div class="card-body">
 							<h6 class="card-title"><a href="#GP">Giulia Pusceddu</a></h6>
 							<p class="card-text">PostDoc CONTACT - IIT</p>
-						</div>
-					</div>
-				</div>
-                <div class="col-md-6 col-lg-2">
-					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/organizers/fc.png">
-						<div class="card-body">
-							<h6 class="card-title"><a href="#FC">Francesca Cocchella</a></h6>
-							<p class="card-text">PhD Student CONTACT - IIT</p>
-						</div>
-					</div>
-				</div>
-                <div class="col-md-6 col-lg-2">
-					<div class="card mx-30">
-						<img alt="..." class="card-img-top" src="assets/img/organizers/at.png">
-						<div class="card-body">
-							<h6 class="card-title"><a href="#AT">Ana Tanevska</a></h6>
-							<p class="card-text">PostDoc USR Lab</p>
 						</div>
 					</div>
 				</div>
@@ -77,6 +50,37 @@ og_image: assets/img/robots_fix.png
 						</div>
 					</div>
 				</div>
+			</div>
+
+            <div class="row">
+				<div class="col-md-6 col-lg-2">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/fc.png">
+						<div class="card-body">
+							<h6 class="card-title"><a href="#FC">Francesca Cocchella</a></h6>
+							<p class="card-text">PhD Student CONTACT - IIT</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-2">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/ll.png">
+						<div class="card-body">
+							<h6 class="card-title"><a href="#LL">Linda Lastrico</a></h6>
+							<p class="card-text">PostDoc CONTACT - IIT</p>
+						</div>
+					</div>
+				</div>
+                <div class="col-md-6 col-lg-2">
+					<div class="card mx-30">
+						<img alt="..." class="card-img-top" src="assets/img/organizers/at.png">
+						<div class="card-body">
+							<h6 class="card-title"><a href="#AT">Ana Tanevska</a></h6>
+							<p class="card-text">PostDoc USR Lab</p>
+						</div>
+					</div>
+				</div>
+                
 			</div>
 		</div>
 	</div>
