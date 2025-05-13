@@ -11,6 +11,8 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
+Submit your contribution [here](https://easychair.org/my/conference?conf=ground25)!!
+
 <p style="text-align: justify;">
 Participants are invited to share innovative strategies for exploring group-robot interactions, providing a fresh and insightful viewpoint on: (1) <b>using robots for understanding group dynamics;</b> (2) <b>designing robots able to interact with groups;</b> (3) <b>exploring the specific ethical challenges when working on group-robot interaction.</b> In addition, the discussion will involve the <b>ethical implications</b> of researching group dynamics, including potential negative outcomes such as biases towards group members. 
 </p>
@@ -31,9 +33,9 @@ Topics of interests include but are not limited to:
 These topics are meant to be suggestive and not exhaustive, contributions to other relevant topics will also be taken into consideration, as long as they fit with the general theme of the workshop. 
 
 ## Important Dates
-* Submission Deadline: **15th of May**
-* Notification of Acceptance: 30th of May
-* Camera Ready: **15th of June**
+* Submission Deadline: **31st of May**
+* Notification of Acceptance: **17th of June**
+* Camera Ready: **22th of June**
 
 
 ## Submission Procedure

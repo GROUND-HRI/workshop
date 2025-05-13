@@ -4,10 +4,10 @@ header_type: splash
 header_img: /assets/img/robots.gif
 subtitle: <b>advancing GROup UNderstanding and robots' aDaptive behavior <br> 30th of June 2025 - IAS 2025, Genoa (Italy)</b>
 
-#project_links:
-#    - url: /workshop/specialissue
-#      icon: fa-solid fa-paper-plane
-#      label: Submit to our Special Issue!
+project_links:
+    - url: https://easychair.org/my/conference?conf=ground25
+      icon: fa-solid fa-paper-plane
+      label: Submit your paper!
 
 og_title: GROUND - Home
 og_description: advancing GROup UNderstanding and robots' aDaptive behavior
