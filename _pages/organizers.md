@@ -141,7 +141,7 @@ og_image: assets/img/robots_fix.png
                 <img class="postcard__img" src="assets/img/organizers/sm.png" alt="Sara Mongile" />
             </a>
             <div class="postcard__text t-dark">
-                <h1 class="postcard__title blue">Sara Monigle</h1>
+                <h1 class="postcard__title blue">Sara Mongile</h1>
                 <div class="postcard__subtitle small">Postdoctoral Researcher @ CONTACT - Istituto Italiano di Tecnologia</div>
                 <div class="postcard__bar"></div>
                 <div class="postcard__preview-txt">

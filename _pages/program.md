@@ -55,7 +55,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				Professor, FHNW University of Applied Sciences and Arts Northwestern Switzerland
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">Information and Machine Ethics.</div>
+                <div class="postcard__preview-txt"><b>Robots, chatbots, and voice assistants in the classroom</b></br></br>Chatbots, voice assistants, and robots – both programmable machines and social robots – have been used in learning for decades. Prof. Dr. Oliver Bendel from the FHNW School of Business in Switzerland presents his own projects from 15 years. Some of his chatbots and voice assistants, such as GOODBOT, BESTBOT, and SPACE THEA, recognized user problems and responded appropriately. They showed empathy and emotion. Pepper was used as an educational application for children with diabetes, and Alpha Mini as an educational application for elementary schools. Chatbots for dead, endangered, and extinct languages such as @ve, @llegra and kAIxo can be integrated into learning environments for all ages. Today, the technology philosopher and information systems expert mainly uses GPTs such as Social Robotics Girl and Digital Ethics Girl in his courses. They can receive and answer questions from several students at the same time, even if they are asked in different languages. They are specialists in their field thanks to prompt engineering and retrieval-augmented generation (RAG). In his talk, Oliver Bendel will ask how chatbots, voice assistants, and social robots will be designed as adaptive systems for multi-user settings in the future. These capabilities are especially important in the classroom.</div>
             </div>
         </article>
         <article class="postcard light blue">
@@ -90,7 +90,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				Assistant Professor, University of Lisbon
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">TBD</div>
+                <div class="postcard__preview-txt"><b>Fostering Inclusion among Mixed-Ability Children through Social Robots</b></br></br>Children of diverse abilities and backgrounds are increasingly integrated into mainstream classrooms. However, simply placing children with and without disabilities—or migrant and native children—together in mixed-ability settings does not ensure inclusion. Many children with disabilities or from migrant backgrounds still experience exclusion, including limited social interaction and an increased risk of isolation.<br>Group work has the potential to foster inclusion by making activities more accessible and addressing individual challenges such as shyness, disabilities, or cultural differences. It also helps develop essential social skills, including collaboration, negotiation, and self-regulation.<br>Social robots have shown promise in enhancing group work and supporting inclusive dynamics. In this talk, I will share our research, and the findings and the challenges we encountered in using social robots within school settings to promote inclusion. I will discuss how a robot’s role, sensors, perceived behavior, and interaction within different group configurations can influence both actual inclusion and children’s perception of it.<br></div>
             </div>
         </article>
     </div>
