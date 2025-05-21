@@ -68,7 +68,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				    Professor, University of Naples
 				</div>
 				<div class="postcard__bar"></div>
-				<div class="postcard__preview-txt">Multi-agent Systems, HRI, Cognitive Architectures and Behavior-based Robotics</div>
+				<div class="postcard__preview-txt"><b>Personalization and Context-awareness in Service Robotics: from Individuals to Groups</b></br></br>This talk presents our approach to enabling robotic systems to engage users in context-aware, personalized interactions through multimodal communication. In service robotics, the ability to deliver natural and adaptive interactions is key to fostering user engagement, trust, and long-term acceptance. We explore how robots can interpret multimodal human cues—such as gestures, facial expressions, and speech—to infer users’ intentions, social and situational contexts, and likely future actions. This understanding enables robots to provide personalized assistance through actions like monitoring, coaching, and motivation, while adapting both verbal and non-verbal behaviors to individual users. We also address the challenges posed by multi-user scenarios, where robots must assess group dynamics and manage engagement across multiple parties in both public and private environments. The talk will highlight our findings and discuss the technical and interactional challenges of extending personalization to multi-party settings in Human-Robot Interaction.</div></div>
 			</div>
 		</article>
     </div>
