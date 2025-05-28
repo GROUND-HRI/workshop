@@ -11,11 +11,11 @@ og_type: website
 og_image: assets/img/robots_fix.png
 ---
 
-**Date**: 30th of June 2025
-**Conference Website**: [International Conference on Intelligent Autonomous Systems 2025](https://ias-19.org/)
-**Time**: 9AM - 5:30PM
+**Date**: 30th of June 2025<br>
+**Conference Website**: [International Conference on Intelligent Autonomous Systems 2025](https://ias-19.org/)<br>
+**Time**: 9AM - 5:30PM<br>
 
-**Location**: **Genova Blue District** Genoa, Italy - **ROOM 1** and on [ZOOM]()
+**Location**: **Genova Blue District** Genoa, Italy - **ROOM 1** and on [ZOOM]()<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2850.276241070092!2d8.924007575899626!3d44.40697690335456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d343dfc8b2f6db%3A0x88669efdac9c92cb!2sGreen%20Palace%20-%20Warehouses%20of%20Abundance!5e0!3m2!1sen!2sit!4v1748437754589!5m2!1sen!2sit" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
