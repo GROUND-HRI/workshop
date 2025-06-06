@@ -108,7 +108,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 				PhD Student, PAL Robotics
 				</div>
                 <div class="postcard__bar"></div>
-                <div class="postcard__preview-txt">ROS4HRI</div>
+                <div class="postcard__preview-txt"><b>ROS4HRI</b><br>This tutorial provides an up-to-date overview of the state of the art in using the Robot Operating System (ROS 2) to develop robots with socio-cognitive capabilities. It begins with a brief introduction to the ROS4HRI framework, demonstrating its application in constructing a complete social robot architecture—from human perception to expressive social interaction. The tutorial then illustrates the software integration required to realize an autonomous social robot, combining open-source ROS 2-based social perception modules, a semantic knowledge base, and a Large Language Model. A PAL Robotics TIAGo Head will be used to showcase the system running on real hardware.</div>
             </div>
         </article>
     </div>
