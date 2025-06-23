@@ -137,6 +137,11 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
                 <div class="postcard__preview-txt">Co-design is widely used in educational contexts to make stakeholders active participants in the learning process. This study presents the co-design process conducted with teachers, educators, and families prior to introducing a social robot in four highly culturally diverse Italian preschools and one nursery. We consider co-design an essential step, as it allows teachers and educators to tailor the robot’s unique characteristics to effectively support their pedagogical practices while incorporating children’s cultural awareness into the robot’s design. Results highlight the importance of co-creating robotic applications before deployment, for developing a framework tailored to a specific educational context.</div>
             </div>
         </article>
+    </div>
+</section>
+
+<section class="light">
+    <div class="container py-2">
         <article class="postcard light blue">
 			<div class="postcard__text t-dark">
 				<h1 class="postcard__title blue">The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions</h1>
