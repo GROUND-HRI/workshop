@@ -112,8 +112,8 @@ navbar:
     url   : /program
   - title : Special Issue
     url   : /specialissue
-  - title : Call for Papers
-    url   : /call
+  #- title : Call for Papers
+  #  url   : /call
   #- title : Keep in Touch!
   #  url   : /attendance
   - title : Organizers
