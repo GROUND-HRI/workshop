@@ -19,9 +19,7 @@ og_image: assets/img/robots_fix.png
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2850.276241070092!2d8.924007575899626!3d44.40697690335456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d343dfc8b2f6db%3A0x88669efdac9c92cb!2sGreen%20Palace%20-%20Warehouses%20of%20Abundance!5e0!3m2!1sen!2sit!4v1748437754589!5m2!1sen!2sit" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-## Tentative Program
-
-GROUND 2024 will be a **Full Day** Workshop
+## Program
 
 | Time (GMT+2)  | Activity                                  |
 |:-------------:|:-----------------------------------------:|
@@ -124,5 +122,34 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
 </section>
 
 ---
+
+## Accepted Papers
+
+<section class="light">
+    <div class="container py-2">
+        <article class="postcard light blue">
+            <div class="postcard__text t-dark">
+                <h1 class="postcard__title blue">Co-Designing SONRIE: Tailoring a Social Robot for Multicultural Groups of Children</h1>
+                <div class="postcard__subtitle small">
+				Anna Allegra Bixio, Alice Nardelli, Alice Stopponi, Maria Filomia, Alessia Bartolini and Carmine Recchiuto
+				</div>
+                <div class="postcard__bar"></div>
+                <div class="postcard__preview-txt">Co-design is widely used in educational contexts to make stakeholders active participants in the learning process. This study presents the co-design process conducted with teachers, educators, and families prior to introducing a social robot in four highly culturally diverse Italian preschools and one nursery. We consider co-design an essential step, as it allows teachers and educators to tailor the robot’s unique characteristics to effectively support their pedagogical practices while incorporating children’s cultural awareness into the robot’s design. Results highlight the importance of co-creating robotic applications before deployment, for developing a framework tailored to a specific educational context.</div>
+            </div>
+        </article>
+        <article class="postcard light blue">
+			<div class="postcard__text t-dark">
+				<h1 class="postcard__title blue">The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions</h1>
+				<div class="postcard__subtitle small">
+				    Ana Müller and Anja Richert
+				</div>
+				<div class="postcard__bar"></div>
+				<div class="postcard__preview-txt">This paper introduces a multimethod framework for studying spatial and social dynamics in real-world group-agent interactions with socially interactive agents. Drawing on proxemics and bonding theories, the method combines subjective self-reports and objective spatial tracking. Applied in two field studies in a museum (N = 187) with a robot and a virtual agent, the paper addresses the challenges in aligning human perception and behavior. We focus on presenting an open source, scalable, and field-tested toolkit for future studies in this field.</div></div>
+			</div>
+		</article>
+    </div>
+</section>
+
+ ---
 
 <p class="card-text"><small class="text-muted">Banner designed by Chahin Mohamed. "Lo-Fi Cyberpunk animated". August, 2021. <a>https://dribbble.com/shots/18947748-Lo-Fi-Cyberpunk-animated</a></small></p>
