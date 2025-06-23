@@ -15,7 +15,7 @@ og_image: assets/img/robots_fix.png
 **Conference Website**: [International Conference on Intelligent Autonomous Systems 2025](https://ias-19.org/)<br>
 **Time**: 9AM - 5:30PM<br>
 
-**Location**: **Genova Blue District** Genoa, Italy - **ROOM 1** and on [ZOOM]()<br>
+**Location**: **Genova Blue District** Genoa, Italy - **Cuspide A** and on [ZOOM]()<br>
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2850.276241070092!2d8.924007575899626!3d44.40697690335456!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12d343dfc8b2f6db%3A0x88669efdac9c92cb!2sGreen%20Palace%20-%20Warehouses%20of%20Abundance!5e0!3m2!1sen!2sit!4v1748437754589!5m2!1sen!2sit" width="1000" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -25,14 +25,23 @@ GROUND 2024 will be a **Full Day** Workshop
 
 | Time (GMT+2)  | Activity                                  |
 |:-------------:|:-----------------------------------------:|
-|morning        | **Ice-breaking activity**                 |
-|morning        | **Keynote Talk** - Silvia Rossi           |
-|morning        | **Lightning Talk** - Isabel Neto          |
-|morning        | **Keynote Talk** - Oliver Bendel          |
+|09:00          | **Ice-breaking activity**                 |
+|09:30          | **Keynote Talk** - Silvia Rossi           |
+|10:00          | **Lightning Talk** - Isabel Neto          |
 |:-------------:|:-----------------------------------------:|
-|afternoon      | **Tutorial** - Lorenzo Ferrini            |
-|afternoon      | **Poster / Papers presentation**          |
-|afternoon      | **Demos for the General Public**          |
+|10:30          | Coffee Break                              |
+|:-------------:|:-----------------------------------------:|
+|11:00          | **Keynote Talk** - Oliver Bendel          |
+|11:30          | **(G)ROUND Table**                        |
+|:-------------:|:-----------------------------------------:|
+|12:30          | Lunch **NOT PROVIDED**                    |
+|:-------------:|:-----------------------------------------:|
+|14:00          | **Short Paper Presentations**             |
+|14:40          | **Tutorial** - Lorenzo Ferrini            |
+|:-------------:|:-----------------------------------------:|
+|16:00          | Coffee Break                              |
+|:-------------:|:-----------------------------------------:|
+|16:25          | **Demos for the General Public**          |
 
 
 For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:workshop.ground@gmail.com).
