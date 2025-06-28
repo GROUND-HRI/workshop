@@ -5,7 +5,7 @@ header_img: /assets/img/robots.gif
 subtitle: <b>advancing GROup UNderstanding and robots' aDaptive behavior <br> 30th of June 2025 - IAS 2025, Genoa (Italy)</b>
 
 project_links:
-    - url: 
+    - url: https://uu-se.zoom.us/j/62824610188
       icon: fa-solid fa-video
       label: Join via Zoom!
 
