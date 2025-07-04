@@ -144,7 +144,7 @@ For any inquiry, please contact us at [workshop.ground@gmail.com](mailto:worksho
     <div class="container py-2">
         <article class="postcard light blue">
 			<div class="postcard__text t-dark">
-				<h1 class="postcard__title blue">The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions</h1>
+				<h1 class="postcard__title blue"><a href="https://arxiv.org/abs/2506.11829">The Space Between Us: A Methodological Framework for Researching Bonding and Proxemics in Situated Group-Agent Interactions</a></h1>
 				<div class="postcard__subtitle small">
 				    Ana Müller and Anja Richert
 				</div>
